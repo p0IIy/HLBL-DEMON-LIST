@@ -39,27 +39,29 @@ export default {
             <div class="level-container">
                 <div class="level" v-if="level">
                     <h1>{{ level.name }}</h1>
-                    <LevelAuthors :author="level.author" :creators="level.creators" :verifier="level.verifier"></LevelAuthors>
-                    <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
+                    <LevelAuthors v-if="level.author || level.verifier" :author="level.author || 'Not provided'" :creators="level.creators || []" :verifier="level.verifier || 'Not provided'"></LevelAuthors>
+                    <p v-else>Creator and verifier information has not been provided.</p>
+                    <iframe v-if="video" class="video" id="videoframe" :src="video" frameborder="0"></iframe>
+                    <p v-else>Verification video has not been provided.</p>
                     <ul class="stats">
                         <li>
                             <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
+                            <p>{{ level.percentToQualify != null ? score(selected + 1, 100, level.percentToQualify) : 'Not available' }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
+                            <p>{{ level.id ?? 'Not provided' }}</p>
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <p>{{ level.password || 'Not provided' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
-                    <p v-else>This level does not accept new records.</p>
-                    <table class="records">
+                    <p v-if="level.percentToQualify != null"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
+                    <p v-else>Qualification requirements have not been provided.</p>
+                    <p v-if="level.records.length === 0">No records have been added yet.</p>
+                    <table class="records" v-else>
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
                                 <p>{{ record.percent }}%</p>
@@ -138,9 +140,12 @@ export default {
     }),
     computed: {
         level() {
-            return this.list[this.selected][0];
+            return this.list?.[this.selected]?.[0] ?? null;
         },
         video() {
+            if (!this.level || (!this.level.showcase && !this.level.verification)) {
+                return null;
+            }
             if (!this.level.showcase) {
                 return embed(this.level.verification);
             }
