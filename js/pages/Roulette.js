@@ -45,6 +45,7 @@ export default {
                             <a v-if="level.video" :href="level.video" class="video">
                                 <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
                             </a>
+                            <p v-else>Verification video not provided.</p>
                             <div class="meta">
                                 <p>#{{ level.rank }}</p>
                                 <h2>{{ level.name }}</h2>
@@ -56,10 +57,11 @@ export default {
                             <a v-if="currentLevel.video" :href="currentLevel.video" target="_blank" class="video">
                                 <img :src="getThumbnailFromId(getYoutubeIdFromUrl(currentLevel.video))" alt="">
                             </a>
+                            <p v-else>Verification video not provided.</p>
                             <div class="meta">
                                 <p>#{{ currentLevel.rank }}</p>
                                 <h2>{{ currentLevel.name }}</h2>
-                                <p>{{ currentLevel.id }}</p>
+                                <p>{{ currentLevel.id || 'ID not provided' }}</p>
                             </div>
                             <form class="actions" v-if="!givenUp">
                                 <input type="number" v-model="percentage" :placeholder="placeholder" :min="currentPercentage + 1" max=100>
@@ -80,6 +82,7 @@ export default {
                                 <a v-if="level.video" :href="level.video" target="_blank" class="video">
                                     <img :src="getThumbnailFromId(getYoutubeIdFromUrl(level.video))" alt="">
                                 </a>
+                                <p v-else>Verification video not provided.</p>
                                 <div class="meta">
                                     <p>#{{ level.rank }}</p>
                                     <h2>{{ level.name }}</h2>
