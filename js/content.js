@@ -1,6 +1,6 @@
 import { round, score } from './score.js';
 
-const dir = '/data';
+const dir = './data';
 
 export async function fetchList() {
     try {
