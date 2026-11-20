@@ -17,19 +17,25 @@
     },
     {
         "name": "Kyouki",
-        "records": []
+        "records": [],
+        "author": "Demishio",
+        "id": 86018142
     },
     {
         "name": "Slaughterhouse (icedcave)",
-        "records": []
+        "records": [],
+        "author": "IcEDCave"
     },
     {
         "name": "KOCMOC",
-        "records": []
+        "records": [],
+        "author": "cherryteam",
+        "id": 87665224
     },
     {
         "name": "Sakupen Circles",
-        "records": []
+        "records": [],
+        "author": "TheDiamondPizza"
     },
     {
         "name": "Edge of Destiny",
@@ -37,11 +43,14 @@
     },
     {
         "name": "Sonic Wave Infinity",
-        "records": []
+        "records": [],
+        "author": "APTeamOfficial",
+        "id": 69685815
     },
     {
         "name": "The Golden",
-        "records": []
+        "records": [],
+        "author": "BoBoBoBoBoBoBo"
     },
     {
         "name": "UNKNOWN",
@@ -57,7 +66,8 @@
     },
     {
         "name": "limbo but uwu ig idk",
-        "records": []
+        "records": [],
+        "author": "Akunakunn"
     },
     {
         "name": "ROCKBOTTOM",
@@ -69,11 +79,13 @@
     },
     {
         "name": "Cold Sweat",
-        "records": []
+        "records": [],
+        "author": "para"
     },
     {
         "name": "ConClusion",
-        "records": []
+        "records": [],
+        "author": "DreamZoneGD"
     },
     {
         "name": "Omega Interface",
@@ -89,7 +101,8 @@
     },
     {
         "name": "Jupiter My Favourite",
-        "records": []
+        "records": [],
+        "author": "Akunakunn"
     },
     {
         "name": "Silent Club",
@@ -117,7 +130,8 @@
     },
     {
         "name": "Yatagarasu",
-        "records": []
+        "records": [],
+        "author": "TrusTa"
     },
     {
         "name": "xo",
@@ -145,7 +159,8 @@
     },
     {
         "name": "Artificial Ascent",
-        "records": []
+        "records": [],
+        "author": "ViPriN"
     },
     {
         "name": "SugarCrash",
@@ -161,7 +176,9 @@
     },
     {
         "name": "Astral Divinity",
-        "records": []
+        "records": [],
+        "author": "Knobbelboy",
+        "id": 58811846
     },
     {
         "name": "MISFIRE",
@@ -169,7 +186,8 @@
     },
     {
         "name": "Auditory Breaker",
-        "records": []
+        "records": [],
+        "author": "LazerBlitz"
     },
     {
         "name": "Curie",
@@ -197,7 +215,8 @@
     },
     {
         "name": "Sakupen Hell",
-        "records": []
+        "records": [],
+        "author": "TrusTa"
     },
     {
         "name": "wrong out there",
@@ -213,11 +232,13 @@
     },
     {
         "name": "moment",
-        "records": []
+        "records": [],
+        "author": "lexycat"
     },
     {
         "name": "gravity",
-        "records": []
+        "records": [],
+        "author": "KazaGD"
     },
     {
         "name": "VACANT",
@@ -225,7 +246,8 @@
     },
     {
         "name": "Bloodbath",
-        "records": []
+        "records": [],
+        "author": "Riot"
     },
     {
         "name": "Eon",
@@ -253,7 +275,8 @@
     },
     {
         "name": "Sigma Interface",
-        "records": []
+        "records": [],
+        "author": "Platnuu"
     },
     {
         "name": "Aftermath",
@@ -285,7 +308,8 @@
     },
     {
         "name": "Crowd Control",
-        "records": []
+        "records": [],
+        "author": "Movietheaters"
     },
     {
         "name": "Polish Alphabet",
@@ -297,11 +321,13 @@
     },
     {
         "name": "Allegiance",
-        "records": []
+        "records": [],
+        "author": "nikroplays"
     },
     {
         "name": "HyperSonic",
-        "records": []
+        "records": [],
+        "author": "ViPriN"
     },
     {
         "name": "Melon River",
@@ -309,15 +335,18 @@
     },
     {
         "name": "Robi",
-        "records": []
+        "records": [],
+        "author": "robianny"
     },
     {
         "name": "The Ultimate Demon",
-        "records": []
+        "records": [],
+        "author": "vit12"
     },
     {
         "name": "Tung Tung Sahurcles",
-        "records": []
+        "records": [],
+        "author": "ArraegenGD"
     },
     {
         "name": "Ion",
@@ -337,7 +366,8 @@
     },
     {
         "name": "Cataclysm",
-        "records": []
+        "records": [],
+        "author": "Ggb0y"
     },
     {
         "name": "Komodo",
@@ -345,11 +375,13 @@
     },
     {
         "name": "Proteus",
-        "records": []
+        "records": [],
+        "author": "SpergQuos"
     },
     {
         "name": "Azurite",
-        "records": []
+        "records": [],
+        "author": "Sillow"
     },
     {
         "name": "Mizureta",
@@ -389,7 +421,8 @@
     },
     {
         "name": "Acu",
-        "records": []
+        "records": [],
+        "author": "neigefeu"
     },
     {
         "name": "Through The Decay",
@@ -405,6 +438,7 @@
     },
     {
         "name": "Thanatophobia",
-        "records": []
+        "records": [],
+        "author": "ARtu"
     }
 ]
