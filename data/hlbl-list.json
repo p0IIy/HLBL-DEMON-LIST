@@ -181,7 +181,20 @@
     },
     {
         "name": "UNKNOWN",
-        "records": []
+        "records": [],
+        "id": 88203501,
+        "author": "NineDice",
+        "creators": [
+            "DrCuber",
+            "NineDice",
+            "Relayne",
+            "muriday",
+            "GhostVandalf",
+            "GD Iris",
+            "Gusearth",
+            "Renn241"
+        ],
+        "verifier": "Diamond"
     },
     {
         "name": "THE ROCK HOUSE",
@@ -561,7 +574,20 @@
     },
     {
         "name": "MISFIRE",
-        "records": []
+        "records": [],
+        "id": 88244926,
+        "author": "Galaxxyss",
+        "creators": [
+            "Waffl3x",
+            "StarkytheSalad",
+            "Madison Yuko",
+            "valentine",
+            "lGenoxide",
+            "Galaxxyss",
+            "Metsho",
+            "GawrGura"
+        ],
+        "verifier": "Zeronium"
     },
     {
         "name": "Auditory Breaker",
@@ -698,7 +724,15 @@
     },
     {
         "name": "Astrophobia",
-        "records": []
+        "records": [],
+        "id": 98133,
+        "author": "Jakalope",
+        "creators": [
+            "Valentine",
+            "Jakalope",
+            "royen"
+        ],
+        "verifier": "Jakalope"
     },
     {
         "name": "moment",
@@ -852,7 +886,14 @@
     },
     {
         "name": "Breakout",
-        "records": []
+        "records": [],
+        "id": 25241513,
+        "author": "Surv",
+        "creators": [
+            "Surv",
+            "nwolc"
+        ],
+        "verifier": "Technical"
     },
     {
         "name": "Crowd Control",
@@ -861,11 +902,33 @@
     },
     {
         "name": "Polish Alphabet",
-        "records": []
+        "records": [],
+        "id": 48765988,
+        "author": "Patchimator",
+        "creators": [
+            "blazer2",
+            "Ezel142",
+            "Ylliee",
+            "MichciachGD",
+            "Texic",
+            "Supris",
+            "RicoMeister",
+            "ZWK",
+            "Lazyer",
+            "ViralDl",
+            "Patchimator"
+        ],
+        "verifier": "BlazeRol"
     },
     {
         "name": "TROLLMACHINE",
-        "records": []
+        "records": [],
+        "id": 84325817,
+        "author": "TROLLM4CHINE",
+        "creators": [
+            "TROLLM4CHINE"
+        ],
+        "verifier": "＞×＜"
     },
     {
         "name": "Allegiance",
