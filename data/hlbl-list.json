@@ -1077,19 +1077,54 @@
     },
     {
         "name": "Niwa",
-        "records": []
+        "records": [],
+        "id": 87425029,
+        "author": "Teno",
+        "creators": [
+            "Teno",
+            "Mrgm",
+            "pengBlaze",
+            "Tito",
+            "alper",
+            "ar12",
+            "BeClan",
+            "Asuith",
+            "Genoxide"
+        ],
+        "verifier": "nicor77"
     },
     {
         "name": "BRUTAL",
-        "records": []
+        "records": [],
+        "id": 138356396,
+        "author": "TShack",
+        "creators": [
+            "airless",
+            "TShack"
+        ],
+        "verifier": "airless"
     },
     {
         "name": "troll level",
-        "records": []
+        "records": [],
+        "id": 76196489,
+        "author": "lexycat",
+        "creators": [
+            "lexycat",
+            "Glitchy",
+            "Lena"
+        ],
+        "verifier": "John Free"
     },
     {
         "name": "Lone",
-        "records": []
+        "records": [],
+        "id": 141662502,
+        "author": "thazm",
+        "creators": [
+            "thazm"
+        ],
+        "verifier": "thazm"
     },
     {
         "name": "Evil",
@@ -1105,7 +1140,13 @@
     },
     {
         "name": "Sweater Weather",
-        "records": []
+        "records": [],
+        "id": 81148582,
+        "author": "VelYT",
+        "creators": [
+            "VelYT"
+        ],
+        "verifier": "Sam"
     },
     {
         "name": "Acu",
@@ -1118,7 +1159,12 @@
     },
     {
         "name": "Through The Decay",
-        "records": []
+        "records": [],
+        "id": 114933189,
+        "author": "sparktwo",
+        "creators": [
+            "sparktwo"
+        ]
     },
     {
         "name": "Frame of Mind",
