@@ -746,7 +746,9 @@
             "Turnernator",
             "Clay"
         ],
-        "verifier": "DozenthLeaf"
+        "verifier": "DozenthLeaf",
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Bang Gang",
@@ -756,7 +758,9 @@
         "creators": [
             "DanZmeN"
         ],
-        "verifier": "Grey749"
+        "verifier": "Grey749",
+        "password": "No Copy",
+        "percentToQualify": 100
     },
     {
         "name": "EnvY",
@@ -875,7 +879,8 @@
             "royen"
         ],
         "verifier": "Jakalope",
-        "percentToQualify": 100
+        "percentToQualify": 61,
+        "password": "Free Copy"
     },
     {
         "name": "moment",
@@ -910,7 +915,9 @@
         "creators": [
             "BuiltInMacro"
         ],
-        "verifier": "Ky"
+        "verifier": "Ky",
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Bloodbath",
