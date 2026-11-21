@@ -640,7 +640,8 @@
         "creators": [
             "GD Nitrality"
         ],
-        "showcase": "https://www.youtube.com/watch?v=h81JXoqhK0A"
+        "showcase": "https://www.youtube.com/watch?v=h81JXoqhK0A",
+        "password": "Free Copy"
     },
     {
         "name": "Black Blizzard",
@@ -1016,7 +1017,8 @@
         ],
         "verifier": "Victurkey",
         "verification": "https://www.youtube.com/watch?v=5Cj1bWRzoFA",
-        "showcase": "https://www.youtube.com/watch?v=Koqw02lMZas"
+        "showcase": "https://www.youtube.com/watch?v=Koqw02lMZas",
+        "password": "Free Copy"
     },
     {
         "name": "ETERNAL",
@@ -1096,7 +1098,8 @@
         ],
         "verifier": "MrSpaghetti",
         "showcase": "https://www.youtube.com/watch?v=NTjvN8oIg8U",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "RIVERS OF NAZARETH",
@@ -1176,7 +1179,8 @@
         ],
         "verifier": "＞×＜",
         "showcase": "https://www.youtube.com/watch?v=sAfvptULN2w",
-        "verification": "https://www.youtube.com/watch?v=VSw1c3L8szo"
+        "verification": "https://www.youtube.com/watch?v=VSw1c3L8szo",
+        "password": "Free Copy"
     },
     {
         "name": "Allegiance",
@@ -1188,7 +1192,8 @@
             "nikrodox"
         ],
         "verification": "https://www.youtube.com/watch?v=wzutYMNXr-Y",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "HyperSonic",
@@ -1292,7 +1297,8 @@
         ],
         "verifier": "spark",
         "showcase": "https://www.youtube.com/watch?v=svkRLvFTyUA",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "Forbidden Isle",
@@ -1410,7 +1416,8 @@
             "TShack"
         ],
         "verifier": "airless",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "troll level",
@@ -1473,7 +1480,8 @@
             "VelYT"
         ],
         "verifier": "xfire",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "Acu",
