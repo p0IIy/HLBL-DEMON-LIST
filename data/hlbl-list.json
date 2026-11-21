@@ -842,7 +842,8 @@
             "kyubd"
         ],
         "verifier": "kyubd",
-        "showcase": "https://www.youtube.com/watch?v=jIoHKJc16L8"
+        "showcase": "https://www.youtube.com/watch?v=jIoHKJc16L8",
+        "password": "Free Copy"
     },
     {
         "name": "Artifice",
@@ -1251,7 +1252,8 @@
             "robianny"
         ],
         "verifier": "Lcultist",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "The Ultimate Demon",
@@ -1308,8 +1310,9 @@
             "Sillow"
         ],
         "id": 63775846,
-        "verifier": "WaxySs",
-        "percentToQualify": 100
+        "verifier": "Sillow",
+        "percentToQualify": 100,
+        "password": "111111"
     },
     {
         "name": "Snowdrift",
