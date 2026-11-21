@@ -1113,7 +1113,8 @@
         "verifier": "EndLevel",
         "creators": [
             "nikrodox"
-        ]
+        ],
+        "verification": "https://www.youtube.com/watch?v=wzutYMNXr-Y"
     },
     {
         "name": "HyperSonic",
@@ -1195,7 +1196,8 @@
         "creators": [
             "SleyGD"
         ],
-        "verifier": "spark"
+        "verifier": "spark",
+        "showcase": "https://www.youtube.com/watch?v=svkRLvFTyUA"
     },
     {
         "name": "Forbidden Isle",
@@ -1215,7 +1217,8 @@
         "creators": [
             "Bratki"
         ],
-        "verifier": "luminovsky"
+        "verifier": "luminovsky",
+        "showcase": "https://www.youtube.com/watch?v=pwEh5k0GQR0"
     },
     {
         "name": "Cataclysm",
