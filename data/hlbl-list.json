@@ -233,7 +233,12 @@
     },
     {
         "name": "Axinie",
-        "records": []
+        "records": [],
+        "id": 107299600,
+        "author": "SaturMan",
+        "creators": [
+            "SaturMan"
+        ]
     },
     {
         "name": "Cold Sweat",
@@ -603,7 +608,13 @@
     },
     {
         "name": "Curie",
-        "records": []
+        "records": [],
+        "id": 87816034,
+        "author": "ked4ri",
+        "creators": [
+            "ked4ri"
+        ],
+        "verifier": "capu"
     },
     {
         "name": "hot rod",
@@ -689,7 +700,12 @@
     },
     {
         "name": "wrong out there",
-        "records": []
+        "records": [],
+        "id": 127308874,
+        "author": "kyubd",
+        "creators": [
+            "kyubd"
+        ]
     },
     {
         "name": "Artifice",
@@ -811,7 +827,13 @@
     },
     {
         "name": "EKO",
-        "records": []
+        "records": [],
+        "id": 79146983,
+        "author": "PureDinoMight",
+        "creators": [
+            "PureDinoMight"
+        ],
+        "verifier": "Victurkey"
     },
     {
         "name": "ETERNAL",
@@ -963,7 +985,12 @@
     },
     {
         "name": "Melon River",
-        "records": []
+        "records": [],
+        "id": 118931226,
+        "author": "ivyteal",
+        "creators": [
+            "ivyteal"
+        ]
     },
     {
         "name": "Robi",
@@ -995,7 +1022,11 @@
     },
     {
         "name": "Forbidden Isle",
-        "records": []
+        "records": [],
+        "author": "Sillow",
+        "creators": [
+            "Sillow"
+        ]
     },
     {
         "name": "Snowdrift",
@@ -1013,7 +1044,13 @@
     },
     {
         "name": "Komodo",
-        "records": []
+        "records": [],
+        "author": "Espii",
+        "creators": [
+            "Espii",
+            "Halcyon"
+        ],
+        "verifier": "chaseqwe"
     },
     {
         "name": "Proteus",
@@ -1031,7 +1068,12 @@
     },
     {
         "name": "Mizureta",
-        "records": []
+        "records": [],
+        "id": 95764848,
+        "author": "dutchiee",
+        "creators": [
+            "dutchiee"
+        ]
     },
     {
         "name": "Niwa",
