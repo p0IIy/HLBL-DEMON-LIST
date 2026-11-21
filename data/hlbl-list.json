@@ -607,7 +607,8 @@
         ],
         "verification": "https://www.youtube.com/watch?v=j8AIsPxcepg",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=NDyZk23b4O0"
     },
     {
         "name": "Digital Descent",
@@ -836,7 +837,8 @@
         "verifier": "Technical, npesta, Gizbro, Golden (solo verifier: Grey749)",
         "password": "No Copy",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=8CkIYWN89fM"
+        "verification": "https://www.youtube.com/watch?v=8CkIYWN89fM",
+        "showcase": "https://www.youtube.com/watch?v=7hxdtpfKBi4"
     },
     {
         "name": "EnvY",
@@ -965,7 +967,8 @@
         ],
         "verifier": "Jakalope",
         "percentToQualify": 61,
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=dSKX0j8bJmg"
     },
     {
         "name": "moment",
@@ -1376,7 +1379,7 @@
         "verifier": "LordVadercraft",
         "percentToQualify": 100,
         "verification": "https://www.youtube.com/watch?v=C-LFHgp-oU0",
-        "showcase": "https://www.youtube.com/watch?v=VGM0csKkrVk",
+        "showcase": "https://www.youtube.com/watch?v=phVnYTasj6c",
         "password": "Free Copy"
     },
     {
@@ -1390,7 +1393,8 @@
         ],
         "verification": "https://www.youtube.com/watch?v=oQJTjVd5i_M",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=UVMPLQRMLuI"
     },
     {
         "name": "Ion",
