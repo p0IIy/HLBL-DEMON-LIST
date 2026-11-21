@@ -1009,7 +1009,8 @@
         "creators": [
             "MothEye"
         ],
-        "verifier": "Baeru"
+        "verifier": "Baeru",
+        "verification": "https://www.youtube.com/watch?v=exSJrLme6so"
     },
     {
         "name": "sunburn",
@@ -1204,7 +1205,7 @@
             "Sillow"
         ],
         "id": 63775846,
-        "verifier": "Sillow"
+        "verifier": "WaxySs"
     },
     {
         "name": "Snowdrift",
