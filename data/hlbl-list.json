@@ -687,7 +687,8 @@
             "GD Nitrality"
         ],
         "showcase": "https://www.youtube.com/watch?v=h81JXoqhK0A",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Black Blizzard",
@@ -1189,7 +1190,8 @@
         "author": "WallyWyvern",
         "creators": [
             "WallyWyvern"
-        ]
+        ],
+        "percentToQualify": 100
     },
     {
         "name": "Breakout",
@@ -1567,11 +1569,12 @@
         "name": "Evil",
         "records": [],
         "id": 7614092,
-        "author": "Deychawoo",
+        "author": "liDeaychawooil",
         "creators": [
-            "Deychawoo"
+            "liDeaychawooil"
         ],
-        "verifier": "SrGuillester"
+        "verifier": "SrGuillester",
+        "password": "343269"
     },
     {
         "name": "Fallen Horizon",
