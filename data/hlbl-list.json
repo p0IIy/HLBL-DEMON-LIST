@@ -394,26 +394,35 @@
         "id": 42584142,
         "verifier": "knobbelboy",
         "creators": [
-            "Manix648",
             "knobbelboy",
-            "Quasar",
-            "Pan",
             "Namtar",
-            "nikrodox",
-            "Havok",
-            "Wabbit",
-            "Xaro",
+            "Quasar",
+            "Rustam",
+            "Manix648",
+            "Michigun",
+            "Etzer",
             "Terron",
+            "weoweoteo",
+            "Vermillion",
+            "Evasium",
+            "Asonicmen",
+            "Havok",
+            "nwolc",
+            "Panman",
+            "Wabbit",
+            "Minesap",
+            "Xaro",
+            "nikroplays",
             "Willy5000",
             "TMNGaming",
-            "Minesap",
-            "nwolc",
-            "Rustam",
-            "non4med"
+            "non4med",
+            "Giron",
+            "Ggb0y"
         ],
         "password": "121296",
         "verification": "https://www.youtube.com/watch?v=5SzKetF2btw",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=9uK_8KKqv4k"
     },
     {
         "name": "kowareta",
@@ -1369,7 +1378,8 @@
             "Ggb0y"
         ],
         "percentToQualify": 100,
-        "password": "666777"
+        "password": "666777",
+        "showcase": "https://www.youtube.com/watch?v=fZ3BvtayLh8"
     },
     {
         "name": "Komodo",
