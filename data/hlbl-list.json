@@ -130,7 +130,9 @@
             "Rynoxious",
             "Linear",
             "MercuryDT"
-        ]
+        ],
+        "password": "Free Copy",
+        "percentToQualify": 73
     },
     {
         "name": "Sonic Wave Infinity",
