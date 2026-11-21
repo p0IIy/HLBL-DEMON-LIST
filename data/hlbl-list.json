@@ -780,7 +780,13 @@
     },
     {
         "name": "VACANT",
-        "records": []
+        "records": [],
+        "id": 93596347,
+        "author": "BuiltInMacro",
+        "creators": [
+            "BuiltInMacro"
+        ],
+        "verifier": "Ky"
     },
     {
         "name": "Bloodbath",
@@ -935,7 +941,11 @@
     },
     {
         "name": "Silverstone Hills",
-        "records": []
+        "records": [],
+        "author": "WallyWyvern",
+        "creators": [
+            "WallyWyvern"
+        ]
     },
     {
         "name": "Breakout",
