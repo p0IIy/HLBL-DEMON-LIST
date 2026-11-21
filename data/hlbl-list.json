@@ -308,11 +308,25 @@
     },
     {
         "name": "Sonic Wave Rebirth",
-        "records": []
+        "records": [],
+        "id": 68688849,
+        "author": "Serponge",
+        "verifier": "Moosh",
+        "creators": [
+            "Serponge",
+            "Cyclic",
+            "FunnyGame"
+        ]
     },
     {
         "name": "Sonic Wave",
-        "records": []
+        "records": [],
+        "id": 26681070,
+        "author": "Sunix",
+        "verifier": "Sunix",
+        "creators": [
+            "Cyclic"
+        ]
     },
     {
         "name": "Yatagarasu",
@@ -349,11 +363,24 @@
     },
     {
         "name": "xo",
-        "records": []
+        "records": [],
+        "id": 58825144,
+        "creators": [
+            "KrmaL"
+        ],
+        "password": "0007"
     },
     {
         "name": "Generic Wave",
-        "records": []
+        "records": [],
+        "id": 49576382,
+        "author": "Pennutoh",
+        "verifier": "Mullsy",
+        "creators": [
+            "Pennutoh",
+            "Cyclic",
+            "Enlex"
+        ]
     },
     {
         "name": "Thunderzone",
@@ -361,17 +388,55 @@
     },
     {
         "name": "Quantum Processing",
-        "records": []
+        "records": [],
+        "id": 38235367,
+        "author": "Riot",
+        "verifier": "Rampage",
+        "creators": [
+            "Riot",
+            "Hinds",
+            "Zobros",
+            "Sil3nce"
+        ]
     },
     {
         "name": "Digital Descent",
         "records": [],
-        "author": "ViPriN"
+        "author": "ViPriN",
+        "id": 37456092,
+        "verifier": "Combined",
+        "creators": [
+            "Viprin",
+            "Codex",
+            "Kips",
+            "nasgubb",
+            "Terron",
+            "AbstractDark",
+            "Samifying",
+            "Manix648",
+            "TheDevon",
+            "Etzer",
+            "loogiah",
+            "LazerBlitz",
+            "G4lvatron",
+            "KrmaL",
+            "Vlacc",
+            "Serponge",
+            "Hinds",
+            "Rustam"
+        ]
     },
     {
         "name": "Stalemate Redux",
         "records": [],
-        "author": "TehTactiq"
+        "author": "TehTactiq",
+        "id": 37398911,
+        "verifier": "Zephal",
+        "creators": [
+            "GdTheTactiq",
+            "TheFrozenTide"
+        ],
+        "password": "115911"
     },
     {
         "name": "Artificial Ascent",
@@ -408,7 +473,12 @@
     {
         "name": "Black Blizzard",
         "records": [],
-        "author": "KrmaL"
+        "author": "KrmaL",
+        "id": 34057654,
+        "creators": [
+            "KrmaL"
+        ],
+        "password": "0006"
     },
     {
         "name": "Ethereal Artifice",
@@ -455,7 +525,15 @@
     {
         "name": "Blade of Justice",
         "records": [],
-        "author": "Manix648"
+        "author": "Manix648",
+        "id": 35448603,
+        "verifier": "RicoLP",
+        "creators": [
+            "Manix648",
+            "LazerBlitz",
+            "Pan",
+            "knobbelboy"
+        ]
     },
     {
         "name": "Silentium Gradas",
