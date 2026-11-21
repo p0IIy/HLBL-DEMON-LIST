@@ -23,14 +23,14 @@ export default {
         <main v-else class="page-list">
             <div class="list-container">
                 <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
+                    <tr v-for="(item, i) in list" :key="item[0]?.id ?? i">
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}</span>
+                        <td class="level" :class="{ 'active': selected === i, 'error': !item[0] }">
+                            <button type="button" @click.prevent="selectLevel(i)" :aria-pressed="selected === i">
+                                <span class="type-label-lg">{{ item[0]?.name || `Error (${item[1]}.json)` }}</span>
                             </button>
                         </td>
                     </tr>
@@ -183,6 +183,11 @@ export default {
         this.loading = false;
     },
     methods: {
+        selectLevel(index) {
+            if (Number.isInteger(index) && index >= 0 && index < this.list.length) {
+                this.selected = index;
+            }
+        },
         embed,
         score,
     },
