@@ -1540,12 +1540,12 @@
         "name": "BRUTAL",
         "records": [],
         "id": 138356396,
-        "author": "TShack",
+        "author": "Tshack",
         "creators": [
-            "airless",
-            "TShack"
+            "Tshack",
+            "Airless"
         ],
-        "verifier": "airless",
+        "verifier": "Airless",
         "percentToQualify": 100,
         "password": "Free Copy"
     },
@@ -1572,7 +1572,7 @@
         "creators": [
             "thazm"
         ],
-        "verifier": "thazm",
+        "verifier": "chaseqwe",
         "percentToQualify": 100,
         "password": "Free Copy",
         "showcase": "https://www.youtube.com/watch?v=MVjVd0_ivOU",
