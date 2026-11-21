@@ -384,7 +384,8 @@
             "Rustam",
             "non4med"
         ],
-        "password": "121296"
+        "password": "121296",
+        "verification": "https://www.youtube.com/watch?v=5SzKetF2btw"
     },
     {
         "name": "kowareta",
@@ -409,7 +410,8 @@
             "Eridani",
             "Denni"
         ],
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "verification": "https://www.youtube.com/watch?v=lAgPh86coPQ"
     },
     {
         "name": "Sonic Wave Rebirth",
@@ -468,7 +470,7 @@
             "csx42",
             "FunnyGame"
         ],
-        "password": "Free Copy"
+        "password": ""
     },
     {
         "name": "xo",
@@ -519,7 +521,8 @@
             "Hinds",
             "Zobros",
             "Sil3nce"
-        ]
+        ],
+        "verification": "https://www.youtube.com/watch?v=j8AIsPxcepg"
     },
     {
         "name": "Digital Descent",
@@ -546,7 +549,8 @@
             "Serponge",
             "Hinds",
             "Rustam"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "Stalemate Redux",
@@ -586,7 +590,8 @@
             "Serponge",
             "G4lvatron",
             "Terron"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "SugarCrash",
@@ -601,7 +606,8 @@
             "KrmaL"
         ],
         "password": "000006",
-        "verifier": "KrmaL"
+        "verifier": "KrmaL",
+        "verification": "https://www.youtube.com/watch?v=lsT5TjQ1Ubc"
     },
     {
         "name": "Ethereal Artifice",
