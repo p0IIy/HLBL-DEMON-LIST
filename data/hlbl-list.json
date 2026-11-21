@@ -1336,7 +1336,8 @@
         "creators": [
             "Ggb0y"
         ],
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "666777"
     },
     {
         "name": "Komodo",
@@ -1388,7 +1389,8 @@
         ],
         "verifier": "ThisIsGDNickShyne",
         "verification": "https://www.youtube.com/watch?v=w842SzEdLK8",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "Niwa",
@@ -1433,7 +1435,8 @@
             "Glitchy",
             "Lena"
         ],
-        "verifier": "John Free"
+        "verifier": "John Free",
+        "password": "No Copy"
     },
     {
         "name": "Lone",
@@ -1444,7 +1447,8 @@
             "thazm"
         ],
         "verifier": "thazm",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "Evil",
@@ -1531,7 +1535,8 @@
         "creators": [
             "Devilmine"
         ],
-        "verifier": "Devilmine"
+        "verifier": "Devilmine",
+        "password": "Free Copy"
     },
     {
         "name": "Thanatophobia",
@@ -1553,6 +1558,7 @@
             "NaimNaro"
         ],
         "verification": "https://www.youtube.com/watch?v=BiX15JU1lsM",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     }
 ]
