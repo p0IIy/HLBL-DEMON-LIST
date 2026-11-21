@@ -267,7 +267,8 @@
         "creators": [
             "bims"
         ],
-        "showcase": "https://www.youtube.com/watch?v=8LJ8Z6IPS3M"
+        "showcase": "https://www.youtube.com/watch?v=8LJ8Z6IPS3M",
+        "password": "Free Copy"
     },
     {
         "name": "Axinie",
@@ -336,7 +337,8 @@
             "loogiah",
             "river"
         ],
-        "verification": "https://www.youtube.com/watch?v=fhmgZYCJ29M"
+        "verification": "https://www.youtube.com/watch?v=fhmgZYCJ29M",
+        "password": "Free Copy"
     },
     {
         "name": "Ykds1479ymdppr",
@@ -549,7 +551,8 @@
             "Zobros",
             "Sil3nce"
         ],
-        "verification": "https://www.youtube.com/watch?v=j8AIsPxcepg"
+        "verification": "https://www.youtube.com/watch?v=j8AIsPxcepg",
+        "password": "Free Copy"
     },
     {
         "name": "Digital Descent",
@@ -714,7 +717,8 @@
             "Manix648",
             "Cyclic"
         ],
-        "verification": "https://www.youtube.com/watch?v=ZcQ5NrKmpT0"
+        "verification": "https://www.youtube.com/watch?v=ZcQ5NrKmpT0",
+        "password": "Free Copy"
     },
     {
         "name": "Curie",
@@ -777,7 +781,8 @@
             "Pan",
             "knobbelboy"
         ],
-        "verification": "https://www.youtube.com/watch?v=6018CbEjA-4"
+        "verification": "https://www.youtube.com/watch?v=6018CbEjA-4",
+        "password": "No Copy"
     },
     {
         "name": "Silentium Gradas",
@@ -856,7 +861,8 @@
         ],
         "verification": "https://www.youtube.com/watch?v=AuAdGf4yeYY",
         "showcase": "https://www.youtube.com/watch?v=Ws-F7JBibgY",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "Astrophobia",
