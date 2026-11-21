@@ -1036,7 +1036,8 @@
         "verifier": "BlankB",
         "verification": "https://www.youtube.com/watch?v=eYSTJC_q-8A",
         "percentToQualify": 100,
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=qOIOmF2_8JA"
     },
     {
         "name": "Down Bass",
@@ -1290,7 +1291,8 @@
         ],
         "verification": "https://www.youtube.com/watch?v=wzutYMNXr-Y",
         "percentToQualify": 100,
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=lHf6buYpbXU"
     },
     {
         "name": "HyperSonic",
