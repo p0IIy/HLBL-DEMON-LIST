@@ -718,7 +718,12 @@
     {
         "name": "Conical Depression",
         "records": [],
-        "author": "KrmaL"
+        "author": "KrmaL",
+        "id": 17711004,
+        "creators": [
+            "KrmaL"
+        ],
+        "password": "0000"
     },
     {
         "name": "EKO",
@@ -740,7 +745,22 @@
     },
     {
         "name": "Aftermath",
-        "records": []
+        "records": [],
+        "id": 25610878,
+        "author": "Exenity",
+        "verifier": "DaMeister",
+        "creators": [
+            "Exenity",
+            "Squizz",
+            "Hinds",
+            "Vultra",
+            "Rhythmic",
+            "Waze",
+            "Bassiegames",
+            "Findexi",
+            "knobbelboy"
+        ],
+        "password": "20815"
     },
     {
         "name": "KINGSLAYER",
@@ -872,7 +892,11 @@
     {
         "name": "Azurite",
         "records": [],
-        "author": "Sillow"
+        "author": "royen",
+        "id": 59533451,
+        "creators": [
+            "royen"
+        ]
     },
     {
         "name": "Mizureta",
