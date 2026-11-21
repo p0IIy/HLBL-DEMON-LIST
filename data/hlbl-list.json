@@ -346,7 +346,8 @@
         "creators": [
             "Play 1107696 (BlackP2sFull)"
         ],
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "verification": "https://www.youtube.com/watch?v=NjEiHIokTGM"
     },
     {
         "name": "Bloodlust",
@@ -396,7 +397,8 @@
         "creators": [
             "Eridani",
             "Denni"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "Sonic Wave Rebirth",
@@ -451,7 +453,8 @@
             "loogiah",
             "csx42",
             "FunnyGame"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "xo",
@@ -462,7 +465,8 @@
         ],
         "password": "0007",
         "author": "KrmaL",
-        "verifier": "KrmaL"
+        "verifier": "KrmaL",
+        "verification": "https://www.youtube.com/watch?v=vcAdWah55Z4"
     },
     {
         "name": "Generic Wave",
