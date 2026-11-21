@@ -311,7 +311,8 @@
             "DreamZoneGD"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=wpuPFFqnJFY"
+        "verification": "https://www.youtube.com/watch?v=wpuPFFqnJFY",
+        "percentToQualify": 100
     },
     {
         "name": "Omega Interface",
@@ -324,7 +325,8 @@
             "Zipixbox"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=sVngEgj0who"
+        "verification": "https://www.youtube.com/watch?v=sVngEgj0who",
+        "percentToQualify": 100
     },
     {
         "name": "SUPERHATEMEWORLD",
@@ -366,7 +368,8 @@
             "Akunakunn"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=nHdEUIPpS2k"
+        "verification": "https://www.youtube.com/watch?v=nHdEUIPpS2k",
+        "percentToQualify": 100
     },
     {
         "name": "Silent Club",
@@ -378,7 +381,8 @@
             "Play 1107696 (BlackP2sFull)"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=NjEiHIokTGM"
+        "verification": "https://www.youtube.com/watch?v=NjEiHIokTGM",
+        "percentToQualify": 100
     },
     {
         "name": "Bloodlust",
