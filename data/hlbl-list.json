@@ -176,7 +176,8 @@
             "Nickalopogas"
         ],
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=C3-l_fFikpQ"
     },
     {
         "name": "The Golden",
@@ -213,7 +214,8 @@
             "Gusearth",
             "Renn241"
         ],
-        "verifier": "Diamond"
+        "verifier": "Diamond",
+        "verification": "https://www.youtube.com/watch?v=a1sQxQqU6EM"
     },
     {
         "name": "THE ROCK HOUSE",
@@ -342,7 +344,8 @@
         "creators": [
             "Kapycta999"
         ],
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "verification": "https://www.youtube.com/watch?v=t7w2HNfD0eI"
     },
     {
         "name": "Jupiter My Favourite",
