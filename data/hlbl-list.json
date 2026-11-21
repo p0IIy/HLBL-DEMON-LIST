@@ -47,13 +47,40 @@
     {
         "name": "Slaughterhouse (icedcave)",
         "records": [],
-        "author": "IcEDCave"
+        "author": "IcEDCave",
+        "id": 27690100,
+        "verifier": "Doggie",
+        "creators": [
+            "icedcave",
+            "EndLevel",
+            "Akira Kurisu",
+            "river",
+            "GD Iris",
+            "DrCuber",
+            "CDMusic",
+            "Brittank88"
+        ]
     },
     {
         "name": "KOCMOC",
         "records": [],
         "author": "cherryteam",
-        "id": 87665224
+        "id": 87665224,
+        "verifier": "Zoink",
+        "creators": [
+            "Cherry Team",
+            "Vernam",
+            "spk",
+            "Synd",
+            "Vinty",
+            "Sauzzeth",
+            "Bli",
+            "Xatz",
+            "kivvvi",
+            "Deadlox",
+            "Cauer",
+            "Hantein"
+        ]
     },
     {
         "name": "Sakupen Circles",
@@ -63,18 +90,79 @@
     {
         "name": "Edge of Destiny",
         "records": [],
-        "author": "CDMusic"
+        "author": "CDMusic",
+        "id": 89187968,
+        "verifier": "polterghast",
+        "creators": [
+            "knobbelboy",
+            "Manix648",
+            "LazerBlitz",
+            "HelpegasuS",
+            "Salamander",
+            "RealVet",
+            "Yoonsr",
+            "Parallax",
+            "Avati",
+            "CuLuC",
+            "Nickalopogas",
+            "Viper Arctarus",
+            "Uriun",
+            "GD Endy",
+            "Unerve",
+            "AppleCr",
+            "Rynoxious",
+            "Linear",
+            "MercuryDT"
+        ]
     },
     {
         "name": "Sonic Wave Infinity",
         "records": [],
         "author": "APTeamOfficial",
-        "id": 69685815
+        "id": 69685815,
+        "verifier": "Xanii",
+        "creators": [
+            "APTeam",
+            "Zimnyte",
+            "Riot",
+            "Viprin",
+            "Cyclic",
+            "Salamander",
+            "Playerwombat",
+            "LuisLuigi",
+            "LiLium11",
+            "Brittank88",
+            "Reunomi",
+            "IncaKola",
+            "Destez",
+            "Requiem",
+            "Cynik",
+            "Nahuel2998",
+            "Pocketbuilder",
+            "Cybronaut",
+            "ZeroSR",
+            "Creeper4",
+            "Tribar",
+            "Nickalopogas"
+        ]
     },
     {
         "name": "The Golden",
         "records": [],
-        "author": "BoBoBoBoBoBoBo"
+        "author": "BoBoBoBoBoBoBo",
+        "id": 60978746,
+        "verifier": "nSwish",
+        "creators": [
+            "BoBoBoBoBoBoBo",
+            "El3cTr0",
+            "Gooseam",
+            "Geemi",
+            "Woomy",
+            "EyeOfTheStorm",
+            "Eridani",
+            "Byselling"
+        ],
+        "password": "886988"
     },
     {
         "name": "UNKNOWN",
@@ -98,11 +186,22 @@
     {
         "name": "limbo but uwu ig idk",
         "records": [],
-        "author": "Akunakunn"
+        "author": "Akunakunn",
+        "id": 110705712,
+        "verifier": "ViperVenom95",
+        "creators": [
+            "Akunakunn"
+        ]
     },
     {
         "name": "ROCKBOTTOM",
-        "records": []
+        "records": [],
+        "id": 122196131,
+        "author": "bims",
+        "verifier": "ZaZa GD",
+        "creators": [
+            "bims"
+        ]
     },
     {
         "name": "Axinie",
@@ -111,17 +210,35 @@
     {
         "name": "Cold Sweat",
         "records": [],
-        "author": "para"
+        "author": "para",
+        "id": 63996127,
+        "verifier": "Kapinapi",
+        "creators": [
+            "para",
+            "Sminx",
+            "Wulzy"
+        ]
     },
     {
         "name": "ConClusion",
         "records": [],
-        "author": "DreamZoneGD"
+        "author": "DreamZoneGD",
+        "id": 96471171,
+        "verifier": "Browar",
+        "creators": [
+            "DreamZoneGD"
+        ]
     },
     {
         "name": "Omega Interface",
         "records": [],
-        "author": "Platnuu"
+        "author": "Platnuu",
+        "id": 68654380,
+        "verifier": "RG",
+        "creators": [
+            "Platnuu",
+            "Zipixbox"
+        ]
     },
     {
         "name": "SUPERHATEMEWORLD",
@@ -131,12 +248,22 @@
     {
         "name": "Ykds1479ymdppr",
         "records": [],
-        "author": "Kapycta999"
+        "author": "Kapycta999",
+        "id": 104464785,
+        "verifier": "BONN",
+        "creators": [
+            "Kapycta999"
+        ]
     },
     {
         "name": "Jupiter My Favourite",
         "records": [],
-        "author": "Akunakunn"
+        "author": "Akunakunn",
+        "id": 92466083,
+        "verifier": "Leslie",
+        "creators": [
+            "Akunakunn"
+        ]
     },
     {
         "name": "Silent Club",
@@ -146,7 +273,28 @@
     {
         "name": "Bloodlust",
         "records": [],
-        "author": "knobbelboy"
+        "author": "knobbelboy",
+        "id": 42584142,
+        "verifier": "knobbelboy",
+        "creators": [
+            "Manix648",
+            "knobbelboy",
+            "Quasar",
+            "Pan",
+            "Namtar",
+            "nikrodox",
+            "Havok",
+            "Wabbit",
+            "Xaro",
+            "Terron",
+            "Willy5000",
+            "TMNGaming",
+            "Minesap",
+            "nwolc",
+            "Rustam",
+            "non4med"
+        ],
+        "password": "121296"
     },
     {
         "name": "kowareta",
@@ -169,7 +317,35 @@
     {
         "name": "Yatagarasu",
         "records": [],
-        "author": "TrusTa"
+        "author": "TrusTa",
+        "id": 28220417,
+        "verifier": "Kandai",
+        "creators": [
+            "Riot",
+            "Viprin",
+            "LmAnubis",
+            "Jeyzor",
+            "WOOGI1411",
+            "Findexi",
+            "Rek3dge",
+            "weoweoteo",
+            "stellameoww",
+            "AbstractDark",
+            "Giron",
+            "Aeidux",
+            "Xcy-7",
+            "Vermillion",
+            "Surv",
+            "Rustam",
+            "Zelda",
+            "Michigun",
+            "Luneth",
+            "Hinds",
+            "Evasium",
+            "loogiah",
+            "csx42",
+            "FunnyGame"
+        ]
     },
     {
         "name": "xo",
@@ -200,7 +376,30 @@
     {
         "name": "Artificial Ascent",
         "records": [],
-        "author": "ViPriN"
+        "author": "ViPriN",
+        "id": 27122654,
+        "verifier": "Combined",
+        "creators": [
+            "Viprin",
+            "LmAnubis",
+            "Codex",
+            "Manix648",
+            "Sanic",
+            "Hinds",
+            "Zobros",
+            "Michigun",
+            "Anthrax",
+            "ZenthicAlpha",
+            "loogiah",
+            "Wamiq8",
+            "nasgubb",
+            "AbstractDark",
+            "Etzer",
+            "Speed",
+            "Serponge",
+            "G4lvatron",
+            "Terron"
+        ]
     },
     {
         "name": "SugarCrash",
@@ -258,7 +457,13 @@
     {
         "name": "Sakupen Hell",
         "records": [],
-        "author": "TrusTa"
+        "author": "TrusTa",
+        "id": 23262780,
+        "verifier": "TrusTa",
+        "creators": [
+            "Noobas"
+        ],
+        "password": "895562"
     },
     {
         "name": "wrong out there",
@@ -281,7 +486,11 @@
     {
         "name": "gravity",
         "records": [],
-        "author": "KazaGD"
+        "author": "KazaGD",
+        "id": 77008332,
+        "creators": [
+            "KazaGD"
+        ]
     },
     {
         "name": "VACANT",
@@ -392,7 +601,12 @@
     {
         "name": "Tung Tung Sahurcles",
         "records": [],
-        "author": "ArraegenGD"
+        "author": "ArraegenGD",
+        "id": 146066774,
+        "verifier": "Nova",
+        "creators": [
+            "ArraegenGD"
+        ]
     },
     {
         "name": "Ion",
@@ -485,6 +699,21 @@
     {
         "name": "Thanatophobia",
         "records": [],
-        "author": "ARtu"
+        "author": "ARtu",
+        "id": 62809982,
+        "verifier": "Syndrome",
+        "creators": [
+            "ARtu",
+            "hyp3rlink",
+            "Kains",
+            "Maitnary",
+            "guleshelt",
+            "Chaeyeon",
+            "RealVet",
+            "Voltex",
+            "Zipixbox",
+            "itami",
+            "NaimNaro"
+        ]
     }
 ]
