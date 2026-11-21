@@ -427,7 +427,14 @@
     {
         "name": "Auditory Breaker",
         "records": [],
-        "author": "LazerBlitz"
+        "author": "LazerBlitz",
+        "id": 51791710,
+        "verifier": "Gabs",
+        "creators": [
+            "LazerBlitz",
+            "Manix648",
+            "Cyclic"
+        ]
     },
     {
         "name": "Curie",
@@ -531,7 +538,12 @@
     {
         "name": "Sigma Interface",
         "records": [],
-        "author": "Platnuu"
+        "author": "Platnuu",
+        "id": 62551239,
+        "verifier": "Technical",
+        "creators": [
+            "Platnuu"
+        ]
     },
     {
         "name": "Aftermath",
@@ -577,12 +589,33 @@
     {
         "name": "Allegiance",
         "records": [],
-        "author": "nikroplays"
+        "author": "nikroplays",
+        "id": 20761188,
+        "verifier": "EndLevel",
+        "creators": [
+            "nikrodox"
+        ]
     },
     {
         "name": "HyperSonic",
         "records": [],
-        "author": "ViPriN"
+        "author": "ViPriN",
+        "id": 30219145,
+        "verifier": "Combined",
+        "creators": [
+            "Viprin",
+            "Dudex",
+            "Serponge",
+            "Manix648",
+            "Vlacc",
+            "Rustam",
+            "nasgubb",
+            "ZenthicAlpha",
+            "Pan",
+            "Evasium",
+            "Etzer",
+            "Terron"
+        ]
     },
     {
         "name": "Melon River",
@@ -627,7 +660,12 @@
     {
         "name": "Cataclysm",
         "records": [],
-        "author": "Ggb0y"
+        "author": "Ggb0y",
+        "id": 3979721,
+        "verifier": "Riot",
+        "creators": [
+            "Ggb0y"
+        ]
     },
     {
         "name": "Komodo",
@@ -682,7 +720,11 @@
     {
         "name": "Acu",
         "records": [],
-        "author": "neigefeu"
+        "author": "neigefeu",
+        "id": 61079355,
+        "creators": [
+            "neigefeu"
+        ]
     },
     {
         "name": "Through The Decay",
