@@ -233,11 +233,18 @@
         "verifier": "Dragoon",
         "id": 83828637,
         "verification": "https://www.youtube.com/watch?v=A76WxInuqos",
-        "showcase": "",
+        "showcase": "https://www.youtube.com/watch?v=zQR8haZVWl8",
         "password": "Free Copy",
         "records": [],
         "creators": [
-            "pla"
+            "pla",
+            "Xolarzz",
+            "Titoalper",
+            "Aranda",
+            "BeclanIn0",
+            "Viper Arctarus",
+            "Arkron",
+            "Duke"
         ]
     },
     {
@@ -1359,8 +1366,10 @@
         "creators": [
             "Kyhros"
         ],
-        "verifier": "Hypno",
-        "percentToQualify": 100
+        "verifier": "ViPriN",
+        "percentToQualify": 100,
+        "password": "70422",
+        "verification": "https://www.youtube.com/watch?v=VuGQiawKNto"
     },
     {
         "name": "Final Round",
@@ -1461,26 +1470,32 @@
         "id": 95764848,
         "author": "dutchiee",
         "creators": [
-            "peng",
-            "Tom163",
-            "Xenith",
-            "D3lteX",
-            "humbjumb",
-            "Daydream",
-            "Horizontal1",
-            "TriplasH",
-            "zoxical",
             "dutchiee",
-            "kaacu",
-            "Samzaya",
+            "TheIcyConey",
             "Zentraa",
-            "Vendas",
-            "IcyConey"
+            "D3lteX",
+            "XenithIsTaken",
+            "Horizontal1",
+            "PLoLek",
+            "pedro796",
+            "Tom163",
+            "TriplasH",
+            "HumbJumb",
+            "vendash",
+            "bydaydream",
+            "Zoxical",
+            "MercuryDT",
+            "Samzaya",
+            "TheRealPeng",
+            "kaacu",
+            "Graded",
+            "nyakay"
         ],
         "verifier": "Airbound, ThisIsGDNick, Shyne",
         "verification": "https://www.youtube.com/watch?v=uppFv0XVQuY",
         "percentToQualify": 100,
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=I7Pv2wHUEPE"
     },
     {
         "name": "Niwa",
@@ -1542,7 +1557,8 @@
         ],
         "verifier": "thazm",
         "percentToQualify": 100,
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=MVjVd0_ivOU"
     },
     {
         "name": "Evil",
