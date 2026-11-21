@@ -3,7 +3,17 @@
         "name": "Defeated Circles",
         "id": 120012581,
         "author": "GXQ",
-        "creators": ["SlenddStone", "notcyanide", "lupodzn", "GXQ", "pootys1337", "GDFluzit", "Slijee", "silence", "muriday"],
+        "creators": [
+            "SlenddStone",
+            "notcyanide",
+            "lupodzn",
+            "GXQ",
+            "pootys1337",
+            "GDFluzit",
+            "Slijee",
+            "silence",
+            "muriday"
+        ],
         "verifier": "Zoink",
         "verification": "https://www.youtube.com/watch?v=nU5AQPzd2YA",
         "showcase": "https://www.youtube.com/watch?v=Rczsf2Tg1wU",
@@ -27,11 +37,11 @@
         "name": "Kyouki",
         "records": [],
         "author": "Demishio",
-        "id": 86018142
+        "id": 86018142,
         "verification": "https://www.youtube.com/watch?v=KDa5c0CJTHs",
         "showcase": "https://www.youtube.com/watch?v=HV8tbGVcai4",
         "password": "Free Copy",
-        "percentToQualify": 72,
+        "percentToQualify": 72
     },
     {
         "name": "Slaughterhouse (icedcave)",
