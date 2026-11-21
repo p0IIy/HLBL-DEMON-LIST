@@ -326,7 +326,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=sVngEgj0who",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=9TQoA9JSLDo"
     },
     {
         "name": "SUPERHATEMEWORLD",
@@ -344,7 +345,8 @@
         ],
         "verification": "https://www.youtube.com/watch?v=fhmgZYCJ29M",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=8GRGybEGhys"
     },
     {
         "name": "Ykds1479ymdppr",
