@@ -89,7 +89,8 @@
             "Hantein"
         ],
         "password": "Free Copy",
-        "percentToQualify": 73
+        "percentToQualify": 73,
+        "verification": "https://www.youtube.com/watch?v=2CxE-UWCIG4"
     },
     {
         "name": "Sakupen Circles",
@@ -109,7 +110,8 @@
             "GhostVandalf"
         ],
         "password": "Free Copy",
-        "percentToQualify": 69
+        "percentToQualify": 69,
+        "showcase": "https://www.youtube.com/watch?v=3l4rQerghmY"
     },
     {
         "name": "Edge of Destiny",
@@ -621,7 +623,9 @@
             "Geo",
             "Masu"
         ],
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "verification": "https://www.youtube.com/watch?v=39AP9_tWniw",
+        "showcase": "https://www.youtube.com/watch?v=RKbKYcS9aCU"
     },
     {
         "name": "Astral Divinity",
