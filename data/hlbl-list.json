@@ -860,7 +860,8 @@
         "verifier": "Stormfly",
         "password": "180511",
         "verification": "https://www.youtube.com/watch?v=pu4m4mpRlhI",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=TykYxigIOrc"
     },
     {
         "name": "Sakupen Hell",
@@ -1117,7 +1118,8 @@
         ],
         "password": "020815",
         "verification": "https://www.youtube.com/watch?v=lbOdII-fPTE",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=0bHfKN_lnV8"
     },
     {
         "name": "KINGSLAYER",
@@ -1129,7 +1131,8 @@
         ],
         "verifier": "Baeru",
         "verification": "https://www.youtube.com/watch?v=exSJrLme6so",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=0JarWgDIFhg"
     },
     {
         "name": "sunburn",
@@ -1140,7 +1143,8 @@
             "pocke"
         ],
         "verifier": "cxn",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=TJW0igkGVSw"
     },
     {
         "name": "Convulsing Light",
@@ -1188,7 +1192,8 @@
         "verifier": "Technical",
         "password": "Free Copy",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=foEA5hS1aUw"
+        "verification": "https://www.youtube.com/watch?v=foEA5hS1aUw",
+        "showcase": "https://www.youtube.com/watch?v=Px7XFrBBRHE"
     },
     {
         "name": "Crowd Control",
@@ -1302,7 +1307,7 @@
         ],
         "verifier": "Hypno",
         "verification": "https://www.youtube.com/watch?v=jwbAbnEgq6Q",
-        "showcase": "https://www.youtube.com/watch?v=s2Y9iLIHMvs",
+        "showcase": "https://www.youtube.com/watch?v=23sKUfGDqjQ",
         "percentToQualify": 100
     },
     {
