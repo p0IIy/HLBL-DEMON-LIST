@@ -25,7 +25,9 @@
         "name": "FOREST OF SPIKES",
         "id": 145709435,
         "author": "bims",
-        "creators": [],
+        "creators": [
+            "bims"
+        ],
         "verifier": "Brian_Cheese",
         "verification": "https://www.youtube.com/watch?v=WJYh3dW8Bfo",
         "showcase": "",
@@ -812,7 +814,13 @@
     },
     {
         "name": "KINGSLAYER",
-        "records": []
+        "records": [],
+        "id": 84813026,
+        "author": "MothEye",
+        "creators": [
+            "MothEye"
+        ],
+        "verifier": "Baeru"
     },
     {
         "name": "sunburn",
@@ -820,11 +828,23 @@
     },
     {
         "name": "Convulsing Light",
-        "records": []
+        "records": [],
+        "id": 132904827,
+        "author": "Yerylik",
+        "creators": [
+            "Yerylik"
+        ],
+        "verifier": "MrSpaghetti"
     },
     {
         "name": "RIVERS OF NAZARETH",
-        "records": []
+        "records": [],
+        "id": 114422869,
+        "author": "AudieoVisual",
+        "creators": [
+            "AudieoVisual"
+        ],
+        "verifier": "AudieoVisual"
     },
     {
         "name": "Silverstone Hills",
