@@ -4,15 +4,14 @@
         "id": 120012581,
         "author": "GXQ",
         "creators": [
-            "SlenddStone",
-            "notcyanide",
-            "lupodzn",
-            "GXQ",
-            "pootys1337",
-            "GDFluzit",
+            "Galaxium",
             "Slijee",
-            "silence",
-            "muriday"
+            "muriday",
+            "GDFluxit",
+            "pootys",
+            "SlendStone",
+            "notcyanide",
+            "lupodzn"
         ],
         "verifier": "Zoink",
         "verification": "https://www.youtube.com/watch?v=nU5AQPzd2YA",
@@ -762,7 +761,12 @@
     {
         "name": "moment",
         "records": [],
-        "author": "lexycat"
+        "author": "Arekushi14",
+        "id": 68848817,
+        "creators": [
+            "Arekushi14"
+        ],
+        "verifier": "Arekushi14"
     },
     {
         "name": "gravity",
@@ -823,7 +827,12 @@
     {
         "name": "Barbaros Finale",
         "records": [],
-        "author": "awesomeme360"
+        "author": "awesomeme360",
+        "id": 79054135,
+        "creators": [
+            "Moffe"
+        ],
+        "verifier": "Patrick61804"
     },
     {
         "name": "Conical Depression",
@@ -942,7 +951,12 @@
     {
         "name": "Crowd Control",
         "records": [],
-        "author": "Movietheaters"
+        "author": "Deadlox",
+        "id": 69491632,
+        "creators": [
+            "Deadlox"
+        ],
+        "verifier": "MArmada"
     },
     {
         "name": "Polish Alphabet",
