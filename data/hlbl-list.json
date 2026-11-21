@@ -412,7 +412,8 @@
             "Serponge",
             "Cyclic",
             "FunnyGame"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "Sonic Wave",
@@ -422,7 +423,8 @@
         "verifier": "Sunix",
         "creators": [
             "Cyclic"
-        ]
+        ],
+        "password": "112516"
     },
     {
         "name": "Yatagarasu",
@@ -480,7 +482,8 @@
             "Pennutoh",
             "Cyclic",
             "Enlex"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "Thunderzone",
@@ -587,7 +590,7 @@
         "creators": [
             "KrmaL"
         ],
-        "password": "0006",
+        "password": "000006",
         "verifier": "KrmaL"
     },
     {
@@ -609,7 +612,8 @@
             "Spectral",
             "Geo",
             "Masu"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "Astral Divinity",
@@ -620,7 +624,7 @@
         "creators": [
             "knobbelboy"
         ],
-        "password": "1517"
+        "password": "001517"
     },
     {
         "name": "MISFIRE",
@@ -937,7 +941,7 @@
             "Findexi",
             "knobbelboy"
         ],
-        "password": "20815"
+        "password": "020815"
     },
     {
         "name": "KINGSLAYER",
