@@ -215,7 +215,8 @@
             "Renn241"
         ],
         "verifier": "Diamond",
-        "verification": "https://www.youtube.com/watch?v=a1sQxQqU6EM"
+        "verification": "https://www.youtube.com/watch?v=a1sQxQqU6EM",
+        "password": "No Copy"
     },
     {
         "name": "THE ROCK HOUSE",
@@ -699,7 +700,8 @@
             "Metsho",
             "GawrGura"
         ],
-        "verifier": "Zeronium"
+        "verifier": "Zeronium",
+        "password": "Free Copy"
     },
     {
         "name": "Auditory Breaker",
@@ -924,7 +926,8 @@
             "Ggb0y"
         ],
         "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "No Copy"
     },
     {
         "name": "Eon",
