@@ -268,7 +268,12 @@
     {
         "name": "Silent Club",
         "records": [],
-        "author": "Luqualizer"
+        "author": "Luqualizer",
+        "id": 68600127,
+        "verifier": "Luqualizer",
+        "creators": [
+            "Play 1107696 (BlackP2sFull)"
+        ]
     },
     {
         "name": "Bloodlust",
@@ -304,7 +309,13 @@
     {
         "name": "AKIRA",
         "records": [],
-        "author": "Eridani"
+        "author": "Eridani",
+        "id": 88421468,
+        "verifier": "Denni",
+        "creators": [
+            "Eridani",
+            "Denni"
+        ]
     },
     {
         "name": "Sonic Wave Rebirth",
@@ -482,7 +493,24 @@
     },
     {
         "name": "Ethereal Artifice",
-        "records": []
+        "records": [],
+        "id": 58252259,
+        "author": "zeroya",
+        "verifier": "Mycrafted",
+        "creators": [
+            "zeroya",
+            "Platnuu",
+            "HelpegasuS",
+            "GDSpeed",
+            "Isane",
+            "Majkomar",
+            "Voltex",
+            "Enixy",
+            "Xaren",
+            "Spectral",
+            "Geo",
+            "Masu"
+        ]
     },
     {
         "name": "Astral Divinity",
@@ -557,7 +585,33 @@
     {
         "name": "Artifice",
         "records": [],
-        "author": "f3lixsram"
+        "author": "f3lixsram",
+        "id": 57520174,
+        "verifier": "f3lixsram",
+        "creators": [
+            "f3lixsram",
+            "Marwec",
+            "Pennutoh",
+            "Darwin",
+            "JacobRoso",
+            "Angryboy",
+            "Yakimaru",
+            "Rafer",
+            "Thomartin",
+            "ChaSe",
+            "Enzore",
+            "Osiris GD",
+            "Reunomi",
+            "Kurokawa",
+            "Desticy",
+            "Victorinox",
+            "Gigamix",
+            "Desumari",
+            "Nahuel",
+            "Erdyuri",
+            "Elegy",
+            "BloodStorm"
+        ]
     },
     {
         "name": "Astrophobia",
