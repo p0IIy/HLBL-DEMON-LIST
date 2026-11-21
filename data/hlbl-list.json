@@ -809,7 +809,8 @@
         ],
         "verifier": "DozenthLeaf",
         "password": "121023",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=FSNGDwv_8N0"
     },
     {
         "name": "Bang Gang",
@@ -835,7 +836,8 @@
         "verifier": "Dorami",
         "password": "314159",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=3vDogCAH9CM"
+        "verification": "https://www.youtube.com/watch?v=IUJdtXaUhGM",
+        "showcase": "https://www.youtube.com/watch?v=3vDogCAH9CM"
     },
     {
         "name": "Blade of Justice",
@@ -898,7 +900,7 @@
             "kyubd"
         ],
         "verifier": "kyubd",
-        "showcase": "https://www.youtube.com/watch?v=jIoHKJc16L8",
+        "showcase": "https://www.youtube.com/watch?v=ixXPhEmjyX8",
         "password": "Free Copy",
         "percentToQualify": 100
     },
@@ -1109,7 +1111,8 @@
             "Platnuu"
         ],
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=zU1YH1AR8ok"
     },
     {
         "name": "Aftermath",
@@ -1156,7 +1159,8 @@
         ],
         "verifier": "cxn",
         "percentToQualify": 100,
-        "showcase": "https://www.youtube.com/watch?v=TJW0igkGVSw"
+        "showcase": "https://www.youtube.com/watch?v=TJW0igkGVSw",
+        "password": "Free Copy"
     },
     {
         "name": "Convulsing Light",
@@ -1230,19 +1234,19 @@
         "name": "Polish Alphabet",
         "records": [],
         "id": 48765988,
-        "author": "AxolotlCamellia",
+        "author": "Patchimator",
         "creators": [
-            "Ezel142",
-            "Supris",
-            "Ylliee",
             "blazer2",
+            "Ezel142",
+            "Ylliee",
             "MichciachGD",
-            "AxolotlCamellia",
-            "Vexowy",
             "Texic",
+            "Supris",
+            "RicoMeister",
             "ZWK",
-            "ViralDL",
-            "Jneh"
+            "Lazyer",
+            "ViralDl",
+            "Patchimator"
         ],
         "verifier": "BlazeRol",
         "showcase": "https://www.youtube.com/watch?v=vOtCHOdO55E",
