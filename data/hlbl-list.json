@@ -405,7 +405,8 @@
             "non4med"
         ],
         "password": "121296",
-        "verification": "https://www.youtube.com/watch?v=5SzKetF2btw"
+        "verification": "https://www.youtube.com/watch?v=5SzKetF2btw",
+        "percentToQualify": 100
     },
     {
         "name": "kowareta",
@@ -419,7 +420,8 @@
             "Minaxa"
         ],
         "password": "474969",
-        "verification": "https://www.youtube.com/watch?v=wxWBFaZYHPM"
+        "verification": "https://www.youtube.com/watch?v=wxWBFaZYHPM",
+        "percentToQualify": 100
     },
     {
         "name": "AKIRA",
@@ -432,7 +434,8 @@
             "Denni"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=lAgPh86coPQ"
+        "verification": "https://www.youtube.com/watch?v=lAgPh86coPQ",
+        "percentToQualify": 100
     },
     {
         "name": "Sonic Wave Rebirth",
@@ -508,7 +511,8 @@
         "password": "0007",
         "author": "KrmaL",
         "verifier": "KrmaL",
-        "verification": "https://www.youtube.com/watch?v=vcAdWah55Z4"
+        "verification": "https://www.youtube.com/watch?v=vcAdWah55Z4",
+        "percentToQualify": 100
     },
     {
         "name": "Generic Wave",
@@ -522,7 +526,8 @@
             "Enlex"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=Yx2IHj6YpRw"
+        "verification": "https://www.youtube.com/watch?v=Yx2IHj6YpRw",
+        "percentToQualify": 100
     },
     {
         "name": "Thunderzone",
@@ -555,7 +560,8 @@
             "Sil3nce"
         ],
         "verification": "https://www.youtube.com/watch?v=j8AIsPxcepg",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Digital Descent",
@@ -653,7 +659,8 @@
         ],
         "password": "000006",
         "verifier": "KrmaL",
-        "verification": "https://www.youtube.com/watch?v=lsT5TjQ1Ubc"
+        "verification": "https://www.youtube.com/watch?v=lsT5TjQ1Ubc",
+        "percentToQualify": 100
     },
     {
         "name": "Ethereal Artifice",
@@ -677,7 +684,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=39AP9_tWniw",
-        "showcase": "https://www.youtube.com/watch?v=RKbKYcS9aCU"
+        "showcase": "https://www.youtube.com/watch?v=RKbKYcS9aCU",
+        "percentToQualify": 100
     },
     {
         "name": "Astral Divinity",
@@ -690,7 +698,8 @@
         ],
         "password": "001517",
         "verification": "https://www.youtube.com/watch?v=vEzYofL2wuQ",
-        "showcase": "https://www.youtube.com/watch?v=wodMtL8I3e4"
+        "showcase": "https://www.youtube.com/watch?v=wodMtL8I3e4",
+        "percentToQualify": 100
     },
     {
         "name": "MISFIRE",
@@ -843,7 +852,8 @@
         ],
         "verifier": "kyubd",
         "showcase": "https://www.youtube.com/watch?v=jIoHKJc16L8",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Artifice",
@@ -907,7 +917,8 @@
         "verifier": "Johnfree",
         "showcase": "https://www.youtube.com/watch?v=rCwx57pL2V0",
         "verification": "https://www.youtube.com/watch?v=HBQhYLRgdvE",
-        "password": "No Copy"
+        "password": "No Copy",
+        "percentToQualify": 100
     },
     {
         "name": "gravity",
@@ -918,7 +929,8 @@
             "Kaza"
         ],
         "verifier": "icedcave",
-        "verification": "https://www.youtube.com/watch?v=Ba4PkcqiZa4"
+        "verification": "https://www.youtube.com/watch?v=Ba4PkcqiZa4",
+        "percentToQualify": 100
     },
     {
         "name": "VACANT",
@@ -991,7 +1003,8 @@
         ],
         "verifier": "Patrick61804",
         "showcase": "https://www.youtube.com/watch?v=OKl023NQHIY",
-        "password": "13004"
+        "password": "13004",
+        "percentToQualify": 100
     },
     {
         "name": "Conical Depression",
@@ -1019,7 +1032,8 @@
         "verifier": "Victurkey",
         "verification": "https://www.youtube.com/watch?v=5Cj1bWRzoFA",
         "showcase": "https://www.youtube.com/watch?v=Koqw02lMZas",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "ETERNAL",
@@ -1065,7 +1079,8 @@
             "knobbelboy"
         ],
         "password": "020815",
-        "verification": "https://www.youtube.com/watch?v=lbOdII-fPTE"
+        "verification": "https://www.youtube.com/watch?v=lbOdII-fPTE",
+        "percentToQualify": 100
     },
     {
         "name": "KINGSLAYER",
@@ -1087,7 +1102,8 @@
         "creators": [
             "pocke"
         ],
-        "verifier": "cxn"
+        "verifier": "cxn",
+        "percentToQualify": 100
     },
     {
         "name": "Convulsing Light",
@@ -1145,7 +1161,8 @@
             "Deadlox"
         ],
         "verifier": "MArmada",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Polish Alphabet",
@@ -1181,7 +1198,8 @@
         "verifier": "＞×＜",
         "showcase": "https://www.youtube.com/watch?v=sAfvptULN2w",
         "verification": "https://www.youtube.com/watch?v=VSw1c3L8szo",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Allegiance",
@@ -1288,7 +1306,8 @@
         "creators": [
             "Kyhros"
         ],
-        "verifier": "Hypno"
+        "verifier": "Hypno",
+        "percentToQualify": 100
     },
     {
         "name": "Final Round",
@@ -1436,7 +1455,8 @@
             "Lena"
         ],
         "verifier": "John Free",
-        "password": "No Copy"
+        "password": "No Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Lone",
@@ -1536,7 +1556,8 @@
             "Devilmine"
         ],
         "verifier": "Devilmine",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Thanatophobia",
