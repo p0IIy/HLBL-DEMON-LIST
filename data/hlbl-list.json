@@ -302,7 +302,8 @@
         "verifier": "SaturMan",
         "verification": "https://www.youtube.com/watch?v=LjfO2fqnozI",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=ujob4DuPkvo"
     },
     {
         "name": "Cold Sweat",
@@ -392,7 +393,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=nHdEUIPpS2k",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=teNUe5vsn4Q"
     },
     {
         "name": "Silent Club",
