@@ -1205,7 +1205,8 @@
         "verifier": "xander",
         "password": "Free Copy",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=-q0iBUZti9s"
+        "verification": "https://www.youtube.com/watch?v=-q0iBUZti9s",
+        "showcase": "https://www.youtube.com/watch?v=JTAyQzYkzrc"
     },
     {
         "name": "Polish Alphabet",
@@ -1315,7 +1316,8 @@
         "verifier": "Lcultist",
         "percentToQualify": 100,
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=fDY3Z7VEUng"
+        "verification": "https://www.youtube.com/watch?v=fDY3Z7VEUng",
+        "showcase": "https://www.youtube.com/watch?v=dpbkvzPepyc"
     },
     {
         "name": "The Ultimate Demon",
@@ -1327,7 +1329,8 @@
         ],
         "verifier": "LordVadercraft",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=C-LFHgp-oU0"
+        "verification": "https://www.youtube.com/watch?v=C-LFHgp-oU0",
+        "showcase": "https://www.youtube.com/watch?v=VGM0csKkrVk"
     },
     {
         "name": "Tung Tung Sahurcles",
@@ -1414,7 +1417,8 @@
         ],
         "verifier": "chaseqwe",
         "id": 41832323,
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=OP4dASiqPdg"
     },
     {
         "name": "Proteus",
@@ -1430,7 +1434,8 @@
             "Unbipentium"
         ],
         "verifier": "SleyGD",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=3fMuGsXFeoc"
     },
     {
         "name": "Azurite",
@@ -1621,7 +1626,8 @@
         ],
         "verifier": "Devilmine",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=-ge89eZ9_5M"
     },
     {
         "name": "Thanatophobia",
