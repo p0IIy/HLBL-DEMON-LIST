@@ -142,7 +142,8 @@
             "MercuryDT"
         ],
         "password": "Free Copy",
-        "percentToQualify": 73
+        "percentToQualify": 73,
+        "verification": "https://www.youtube.com/watch?v=rUphe3H59yU"
     },
     {
         "name": "Sonic Wave Infinity",
@@ -288,7 +289,8 @@
             "Sminx",
             "Wulzy"
         ],
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "verification": "https://www.youtube.com/watch?v=tBpEPXGhQug"
     },
     {
         "name": "ConClusion",
