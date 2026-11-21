@@ -448,7 +448,16 @@
     },
     {
         "name": "Thunderzone",
-        "records": []
+        "records": [],
+        "id": 63858842,
+        "author": "Cersia",
+        "creators": [
+            "henry500",
+            "Insideawedy",
+            "fruitsalad",
+            "TheLasaga"
+        ],
+        "verifier": "Slithium"
     },
     {
         "name": "Quantum Processing",
@@ -1008,12 +1017,22 @@
     {
         "name": "Robi",
         "records": [],
-        "author": "robianny"
+        "author": "robianny",
+        "id": 88172786,
+        "creators": [
+            "robianny"
+        ],
+        "verifier": "Lcultist"
     },
     {
         "name": "The Ultimate Demon",
         "records": [],
-        "author": "vit12"
+        "author": "vit12",
+        "id": 93939369,
+        "creators": [
+            "vit12"
+        ],
+        "verifier": "LordVadercraft"
     },
     {
         "name": "Tung Tung Sahurcles",
@@ -1083,7 +1102,8 @@
             "Espii",
             "Halcyon"
         ],
-        "verifier": "chaseqwe"
+        "verifier": "chaseqwe",
+        "id": 41832323
     },
     {
         "name": "Proteus",
