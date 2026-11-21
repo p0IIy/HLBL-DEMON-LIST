@@ -1422,7 +1422,8 @@
         ],
         "verifier": "luminovsky",
         "showcase": "https://www.youtube.com/watch?v=pwEh5k0GQR0",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=rCEULjN2iV4"
     },
     {
         "name": "Cataclysm",
@@ -1574,7 +1575,8 @@
         "verifier": "thazm",
         "percentToQualify": 100,
         "password": "Free Copy",
-        "showcase": "https://www.youtube.com/watch?v=MVjVd0_ivOU"
+        "showcase": "https://www.youtube.com/watch?v=MVjVd0_ivOU",
+        "verification": "https://www.youtube.com/watch?v=MVjVd0_ivOU"
     },
     {
         "name": "Evil",
@@ -1586,7 +1588,8 @@
         ],
         "verifier": "SrGuillester",
         "password": "343269",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=AQ4EMLFJSLU"
     },
     {
         "name": "Fallen Horizon",
