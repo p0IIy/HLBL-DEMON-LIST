@@ -579,15 +579,42 @@
     },
     {
         "name": "hot rod",
-        "records": []
+        "records": [],
+        "id": 95355264,
+        "author": "stcubing",
+        "creators": [
+            "stcubing",
+            "Astrodyke",
+            "Linox",
+            "fajhfkdskl",
+            "Mari",
+            "Monthmai",
+            "JaSonic",
+            "Turnernator",
+            "Clay"
+        ],
+        "verifier": "DozenthLeaf"
     },
     {
         "name": "Bang Gang",
-        "records": []
+        "records": [],
+        "id": 56916170,
+        "author": "DanZmeN",
+        "creators": [
+            "DanZmeN"
+        ],
+        "verifier": "Grey749"
     },
     {
         "name": "EnvY",
-        "records": []
+        "records": [],
+        "id": 45411361,
+        "author": "DanZmeN",
+        "creators": [
+            "DanZmeN"
+        ],
+        "verifier": "Dorami",
+        "password": "314159"
     },
     {
         "name": "Blade of Justice",
@@ -604,7 +631,22 @@
     },
     {
         "name": "Silentium Gradas",
-        "records": []
+        "records": [],
+        "id": 45626173,
+        "author": "Stormfly",
+        "creators": [
+            "Metalface221",
+            "Kugelblitz",
+            "Zhander",
+            "noice",
+            "Shocksidian",
+            "Aquatias",
+            "KaotikJumper",
+            "Blaireswip",
+            "TheRealSailent"
+        ],
+        "verifier": "Stormfly",
+        "password": "180511"
     },
     {
         "name": "Sakupen Hell",
@@ -696,7 +738,13 @@
     },
     {
         "name": "Eon",
-        "records": []
+        "records": [],
+        "id": 101478916,
+        "author": "Renn241",
+        "creators": [
+            "Renn241"
+        ],
+        "verifier": "BlankB"
     },
     {
         "name": "Down Bass",
