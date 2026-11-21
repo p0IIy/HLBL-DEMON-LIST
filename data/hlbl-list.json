@@ -213,19 +213,21 @@
         "id": 88203501,
         "author": "NineDice",
         "creators": [
+            "Gusearth",
+            "kywy",
+            "Renn241",
             "DrCuber",
-            "NineDice",
-            "Relayne",
-            "muriday",
             "GhostVandalf",
             "GD Iris",
-            "Gusearth",
-            "Renn241"
+            "NineDice",
+            "Relayne",
+            "muriday"
         ],
         "verifier": "Diamond",
         "verification": "https://www.youtube.com/watch?v=a1sQxQqU6EM",
         "password": "No Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=Pt8KsLUEw2k"
     },
     {
         "name": "THE ROCK HOUSE",
