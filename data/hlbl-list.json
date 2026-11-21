@@ -882,7 +882,8 @@
             "Havok",
             "Giron",
             "Ggb0y"
-        ]
+        ],
+        "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik"
     },
     {
         "name": "Eon",
@@ -925,7 +926,8 @@
             "KrmaL"
         ],
         "password": "0000",
-        "verifier": "KrmaL"
+        "verifier": "KrmaL",
+        "verification": "https://www.youtube.com/watch?v=wdEuFpV9CXw"
     },
     {
         "name": "EKO",
@@ -1104,7 +1106,8 @@
             "Evasium",
             "Etzer",
             "Terron"
-        ]
+        ],
+        "verification": "https://www.youtube.com/watch?v=RmrPEJ7Z6lY"
     },
     {
         "name": "Melon River",
@@ -1394,6 +1397,7 @@
             "Zipixbox",
             "itami",
             "NaimNaro"
-        ]
+        ],
+        "verification": "https://www.youtube.com/watch?v=BiX15JU1lsM"
     }
 ]
