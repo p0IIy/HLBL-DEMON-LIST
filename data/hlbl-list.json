@@ -1661,7 +1661,8 @@
             "SwtCyn",
             "BrainETR"
         ],
-        "showcase": "https://www.youtube.com/watch?v=WVUo-teWyiQ"
+        "showcase": "https://www.youtube.com/watch?v=WVUo-teWyiQ",
+        "percentToQualify": 100
     },
     {
         "name": "rauchkammer",
