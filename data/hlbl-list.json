@@ -85,7 +85,20 @@
     {
         "name": "Sakupen Circles",
         "records": [],
-        "author": "TheDiamondPizza"
+        "author": "Diamond",
+        "id": 76962930,
+        "verifier": "Diamond",
+        "creators": [
+            "Nick24",
+            "Muffy450",
+            "DrCuber",
+            "korewa",
+            "Renn241",
+            "Mzero",
+            "Endevvor",
+            "NineDice",
+            "GhostVandalf"
+        ]
     },
     {
         "name": "Edge of Destiny",
@@ -243,7 +256,17 @@
     {
         "name": "SUPERHATEMEWORLD",
         "records": [],
-        "author": "icedcave"
+        "author": "icedcave",
+        "id": 57571983,
+        "verifier": "Cursed",
+        "creators": [
+            "icedcave",
+            "EndLevel",
+            "RealVet",
+            "Doop",
+            "loogiah",
+            "river"
+        ]
     },
     {
         "name": "Ykds1479ymdppr",
@@ -304,7 +327,15 @@
     {
         "name": "kowareta",
         "records": [],
-        "author": "Gablor"
+        "author": "Gablor",
+        "id": 46763581,
+        "verifier": "Gablor",
+        "creators": [
+            "Gablor",
+            "EndLevel",
+            "Minaxa"
+        ],
+        "password": "474969"
     },
     {
         "name": "AKIRA",
@@ -379,7 +410,9 @@
         "creators": [
             "KrmaL"
         ],
-        "password": "0007"
+        "password": "0007",
+        "author": "KrmaL",
+        "verifier": "KrmaL"
     },
     {
         "name": "Generic Wave",
@@ -489,7 +522,8 @@
         "creators": [
             "KrmaL"
         ],
-        "password": "0006"
+        "password": "0006",
+        "verifier": "KrmaL"
     },
     {
         "name": "Ethereal Artifice",
@@ -516,7 +550,12 @@
         "name": "Astral Divinity",
         "records": [],
         "author": "Knobbelboy",
-        "id": 58811846
+        "id": 58811846,
+        "verifier": "knobbelboy",
+        "creators": [
+            "knobbelboy"
+        ],
+        "password": "1517"
     },
     {
         "name": "MISFIRE",
@@ -638,7 +677,22 @@
     {
         "name": "Bloodbath",
         "records": [],
-        "author": "Riot"
+        "author": "Riot",
+        "id": 10565740,
+        "verifier": "Riot",
+        "creators": [
+            "Riot",
+            "weoweoteo",
+            "Vermillion",
+            "Michigun",
+            "Evasium",
+            "Crack",
+            "ASonicMen",
+            "Etzer",
+            "Havok",
+            "Giron",
+            "Ggb0y"
+        ]
     },
     {
         "name": "Eon",
@@ -647,7 +701,14 @@
     {
         "name": "Down Bass",
         "records": [],
-        "author": "Spectra"
+        "author": "Spectra",
+        "id": 8147005,
+        "verifier": "TheRealSneaky",
+        "creators": [
+            "Valyrie",
+            "WoodedGold"
+        ],
+        "password": "071100"
     },
     {
         "name": "Barbaros Finale",
