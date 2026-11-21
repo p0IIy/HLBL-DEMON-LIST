@@ -880,7 +880,13 @@
     },
     {
         "name": "sunburn",
-        "records": []
+        "records": [],
+        "id": 73005068,
+        "author": "pocke",
+        "creators": [
+            "pocke"
+        ],
+        "verifier": "cxn"
     },
     {
         "name": "Convulsing Light",
@@ -1014,7 +1020,13 @@
     },
     {
         "name": "Ion",
-        "records": []
+        "records": [],
+        "id": 102352215,
+        "author": "shmigels",
+        "creators": [
+            "shmigels"
+        ],
+        "verifier": "Hypno"
     },
     {
         "name": "Final Round",
@@ -1026,11 +1038,19 @@
         "author": "Sillow",
         "creators": [
             "Sillow"
-        ]
+        ],
+        "id": 63775846,
+        "verifier": "Sillow"
     },
     {
         "name": "Snowdrift",
-        "records": []
+        "records": [],
+        "id": 88017017,
+        "author": "Bratki",
+        "creators": [
+            "Bratki"
+        ],
+        "verifier": "luminovsky"
     },
     {
         "name": "Cataclysm",
