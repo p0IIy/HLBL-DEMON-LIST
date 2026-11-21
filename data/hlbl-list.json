@@ -345,7 +345,8 @@
             "Kapycta999"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=t7w2HNfD0eI"
+        "verification": "https://www.youtube.com/watch?v=t7w2HNfD0eI",
+        "percentToQualify": 100
     },
     {
         "name": "Jupiter My Favourite",
@@ -436,7 +437,8 @@
             "FunnyGame"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=wXxPNaqTZKU"
+        "verification": "https://www.youtube.com/watch?v=wXxPNaqTZKU",
+        "percentToQualify": 100
     },
     {
         "name": "Sonic Wave",
@@ -950,7 +952,9 @@
         "id": 79146983,
         "author": "PureDinoMight",
         "creators": [
-            "PureDinoMight"
+            "PureDinoMight",
+            "KazVA",
+            "Gyrodog"
         ],
         "verifier": "Victurkey",
         "verification": "https://www.youtube.com/watch?v=5Cj1bWRzoFA",
@@ -1085,7 +1089,8 @@
             "Patchimator"
         ],
         "verifier": "BlazeRol",
-        "showcase": "https://www.youtube.com/watch?v=vOtCHOdO55E"
+        "showcase": "https://www.youtube.com/watch?v=vOtCHOdO55E",
+        "percentToQualify": 100
     },
     {
         "name": "TROLLMACHINE",
