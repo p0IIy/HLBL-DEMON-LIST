@@ -519,12 +519,17 @@
         "id": 63858842,
         "author": "Cersia",
         "creators": [
+            "Cersia",
             "henry500",
-            "Insideawedy",
             "fruitsalad",
+            "Inside",
+            "Awedsy",
             "TheLasaga"
         ],
-        "verifier": "Slithium"
+        "verifier": "Slithium",
+        "password": "Free Copy",
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=bfo2atUb5aY"
     },
     {
         "name": "Quantum Processing",
@@ -1040,7 +1045,8 @@
         "creators": [
             "AudieoVisual"
         ],
-        "verifier": "AudieoVisual"
+        "verifier": "AudieoVisual",
+        "showcase": "https://www.youtube.com/watch?v=qnNiAKxlBeg"
     },
     {
         "name": "Silverstone Hills",
@@ -1144,9 +1150,21 @@
         "id": 118931226,
         "author": "ivyteal",
         "creators": [
-            "ivyteal"
+            "ivyteal",
+            "GiggsRH",
+            "Asterna",
+            "tuonelankone",
+            "OutBite",
+            "stanstanmansan",
+            "djudjeito",
+            "DarkCacti",
+            "classic10",
+            "DOMIANGELI",
+            "stcubing"
         ],
-        "verifier": "Hypno"
+        "verifier": "Hypno",
+        "verification": "https://www.youtube.com/watch?v=jwbAbnEgq6Q",
+        "showcase": "https://www.youtube.com/watch?v=s2Y9iLIHMvs"
     },
     {
         "name": "Robi",
