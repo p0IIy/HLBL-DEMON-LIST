@@ -173,7 +173,8 @@
             "Tribar",
             "Nickalopogas"
         ],
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "The Golden",
@@ -471,7 +472,7 @@
             "csx42",
             "FunnyGame"
         ],
-        "password": ""
+        "password": "Free Copy"
     },
     {
         "name": "xo",
