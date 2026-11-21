@@ -1012,7 +1012,8 @@
             "WoodedGold"
         ],
         "password": "071100",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=gyRjfhKYQeU"
     },
     {
         "name": "Barbaros Finale",
@@ -1172,7 +1173,8 @@
         ],
         "verifier": "Technical",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=foEA5hS1aUw"
     },
     {
         "name": "Crowd Control",
