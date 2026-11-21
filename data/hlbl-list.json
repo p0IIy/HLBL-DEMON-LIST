@@ -973,7 +973,8 @@
         "creators": [
             "ivyteal"
         ],
-        "verifier": "ivyteal"
+        "verifier": "ivyteal",
+        "showcase": "https://www.youtube.com/watch?v=a5Tnh2ft0y0"
     },
     {
         "name": "Sigma Interface",
@@ -1035,7 +1036,8 @@
         "creators": [
             "Yerylik"
         ],
-        "verifier": "MrSpaghetti"
+        "verifier": "MrSpaghetti",
+        "showcase": "https://www.youtube.com/watch?v=NTjvN8oIg8U"
     },
     {
         "name": "RIVERS OF NAZARETH",
