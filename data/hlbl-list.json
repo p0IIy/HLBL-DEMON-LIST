@@ -143,7 +143,8 @@
         ],
         "password": "Free Copy",
         "percentToQualify": 73,
-        "verification": "https://www.youtube.com/watch?v=rUphe3H59yU"
+        "verification": "https://www.youtube.com/watch?v=rUphe3H59yU",
+        "showcase": "https://www.youtube.com/watch?v=mf-hWOdnPXs"
     },
     {
         "name": "Sonic Wave Infinity",
@@ -300,7 +301,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=tBpEPXGhQug",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=4nwkpdUBvE4"
     },
     {
         "name": "ConClusion",
@@ -1044,7 +1046,8 @@
         "password": "0000",
         "verifier": "KrmaL",
         "verification": "https://www.youtube.com/watch?v=wdEuFpV9CXw",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=ySnijBooId8"
     },
     {
         "name": "EKO",
