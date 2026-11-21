@@ -491,7 +491,7 @@
             "csx42",
             "FunnyGame"
         ],
-        "password": "",
+        "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
         "percentToQualify": 100
     },
@@ -955,7 +955,8 @@
         ],
         "verifier": "BlankB",
         "verification": "https://www.youtube.com/watch?v=eYSTJC_q-8A",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "Down Bass",
@@ -1019,7 +1020,8 @@
         ],
         "verifier": "ivyteal",
         "showcase": "https://www.youtube.com/watch?v=a5Tnh2ft0y0",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy"
     },
     {
         "name": "Sigma Interface",
@@ -1030,7 +1032,8 @@
         "creators": [
             "TeslaX",
             "Platnuu"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "Aftermath",
@@ -1116,7 +1119,8 @@
             "Surv",
             "nwolc"
         ],
-        "verifier": "Technical"
+        "verifier": "Technical",
+        "password": "Free Copy"
     },
     {
         "name": "Crowd Control",
