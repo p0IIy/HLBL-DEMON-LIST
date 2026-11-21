@@ -30,7 +30,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected === i, 'error': !item[0] }">
                             <button type="button" @click.prevent="selectLevel(i)" :aria-pressed="selected === i">
-                                <span class="type-label-lg">{{ item[0]?.name || `Error (${item[1]}.json)` }}</span>
+                                <span class="type-label-lg">{{ item[0]?.name || ('Error (' + item[1] + '.json)') }}</span>
                             </button>
                         </td>
                     </tr>
