@@ -727,7 +727,8 @@
         "id": 87816034,
         "author": "ked4ri",
         "creators": [
-            "ked4ri"
+            "ked4ri",
+            "XinpA"
         ],
         "verifier": "capu"
     },
@@ -1244,10 +1245,13 @@
         "records": [],
         "author": "ArraegenGD",
         "id": 146066774,
-        "verifier": "Nova",
+        "verifier": "Nova4664",
         "creators": [
             "ArraegenGD"
-        ]
+        ],
+        "verification": "https://www.youtube.com/watch?v=oQJTjVd5i_M",
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Ion",
