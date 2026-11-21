@@ -29,7 +29,7 @@
         ],
         "verifier": "Brian_Cheese",
         "verification": "https://www.youtube.com/watch?v=WJYh3dW8Bfo",
-        "showcase": "",
+        "showcase": "https://www.youtube.com/watch?v=WJYh3dW8Bfo",
         "password": "Free Copy",
         "percentToQualify": 66,
         "records": []
@@ -262,7 +262,8 @@
         "verifier": "YeldA",
         "verification": "https://www.youtube.com/watch?v=Dg9Q6s8EOlg",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=Dg9Q6s8EOlg"
     },
     {
         "name": "limbo but uwu ig idk",
@@ -333,7 +334,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=wpuPFFqnJFY",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=wpuPFFqnJFY"
     },
     {
         "name": "Omega Interface",
@@ -1065,7 +1067,8 @@
         ],
         "password": "071100",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=gyRjfhKYQeU"
+        "verification": "https://www.youtube.com/watch?v=gyRjfhKYQeU",
+        "showcase": "https://www.youtube.com/watch?v=gyRjfhKYQeU"
     },
     {
         "name": "Barbaros Finale",
@@ -1122,7 +1125,8 @@
         "verifier": "ivyteal",
         "percentToQualify": 100,
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=a5Tnh2ft0y0"
+        "verification": "https://www.youtube.com/watch?v=a5Tnh2ft0y0",
+        "showcase": "https://www.youtube.com/watch?v=a5Tnh2ft0y0"
     },
     {
         "name": "Sigma Interface",
@@ -1136,7 +1140,8 @@
         ],
         "password": "Free Copy",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=zU1YH1AR8ok"
+        "verification": "https://www.youtube.com/watch?v=zU1YH1AR8ok",
+        "showcase": "https://www.youtube.com/watch?v=zU1YH1AR8ok"
     },
     {
         "name": "Aftermath",
@@ -1410,7 +1415,8 @@
         "verifier": "ViPriN",
         "percentToQualify": 100,
         "password": "70422",
-        "verification": "https://www.youtube.com/watch?v=VuGQiawKNto"
+        "verification": "https://www.youtube.com/watch?v=VuGQiawKNto",
+        "showcase": "https://www.youtube.com/watch?v=VuGQiawKNto"
     },
     {
         "name": "Final Round",
@@ -1592,7 +1598,8 @@
         "verifier": "Lexy, Glitchy, Lena",
         "password": "No Copy",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=eqYr6MLwJE4"
+        "verification": "https://www.youtube.com/watch?v=eqYr6MLwJE4",
+        "showcase": "https://www.youtube.com/watch?v=eqYr6MLwJE4"
     },
     {
         "name": "Lone",
@@ -1619,7 +1626,8 @@
         "verifier": "SrGuillester",
         "password": "343269",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=AQ4EMLFJSLU"
+        "verification": "https://www.youtube.com/watch?v=AQ4EMLFJSLU",
+        "showcase": "https://www.youtube.com/watch?v=AQ4EMLFJSLU"
     },
     {
         "name": "Fallen Horizon",
