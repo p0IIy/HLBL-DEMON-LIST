@@ -386,7 +386,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=NjEiHIokTGM",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=YxWjLleSYXg"
     },
     {
         "name": "Bloodlust",
@@ -518,7 +519,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=WLs1BTpYgQs"
     },
     {
         "name": "xo",
@@ -625,7 +627,8 @@
         ],
         "password": "115911",
         "verification": "https://www.youtube.com/watch?v=t9XP1lhMrPo",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=kOa0bvPT_4o"
     },
     {
         "name": "Artificial Ascent",
@@ -861,7 +864,8 @@
         ],
         "password": "895562",
         "verification": "https://www.youtube.com/watch?v=svyOjwLCErg",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=DXfnMKenJ-A"
     },
     {
         "name": "wrong out there",
