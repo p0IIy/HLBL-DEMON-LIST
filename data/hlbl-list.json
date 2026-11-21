@@ -161,7 +161,8 @@
             "Creeper4",
             "Tribar",
             "Nickalopogas"
-        ]
+        ],
+        "password": "Free Copy"
     },
     {
         "name": "The Golden",
@@ -233,7 +234,10 @@
         "verifier": "ViperVenom95",
         "creators": [
             "Akunakunn"
-        ]
+        ],
+        "verification": "https://www.youtube.com/watch?v=3B36N-qfOD8",
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "ROCKBOTTOM",
@@ -1308,7 +1312,8 @@
         "creators": [
             "SwtCyn",
             "BrainETR"
-        ]
+        ],
+        "showcase": "https://www.youtube.com/watch?v=WVUo-teWyiQ"
     },
     {
         "name": "rauchkammer",
