@@ -292,7 +292,8 @@
             "Wulzy"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=tBpEPXGhQug"
+        "verification": "https://www.youtube.com/watch?v=tBpEPXGhQug",
+        "percentToQualify": 100
     },
     {
         "name": "ConClusion",
@@ -450,7 +451,8 @@
             "Cyclic"
         ],
         "password": "112516",
-        "verification": "https://www.youtube.com/watch?v=GpXTwPgweAk"
+        "verification": "https://www.youtube.com/watch?v=GpXTwPgweAk",
+        "percentToQualify": 100
     },
     {
         "name": "Yatagarasu",
@@ -485,7 +487,8 @@
             "FunnyGame"
         ],
         "password": "",
-        "verification": "https://www.youtube.com/watch?v=KgGKx0pk_wo"
+        "verification": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
+        "percentToQualify": 100
     },
     {
         "name": "xo",
@@ -572,7 +575,8 @@
             "Rustam"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=sUCMlYi8LRA"
+        "verification": "https://www.youtube.com/watch?v=sUCMlYi8LRA",
+        "percentToQualify": 100
     },
     {
         "name": "Stalemate Redux",
@@ -585,7 +589,8 @@
             "TheFrozenTide"
         ],
         "password": "115911",
-        "verification": "https://www.youtube.com/watch?v=t9XP1lhMrPo"
+        "verification": "https://www.youtube.com/watch?v=t9XP1lhMrPo",
+        "percentToQualify": 100
     },
     {
         "name": "Artificial Ascent",
@@ -615,7 +620,8 @@
             "Terron"
         ],
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=s1wD7sT1aIk"
+        "verification": "https://www.youtube.com/watch?v=s1wD7sT1aIk",
+        "percentToQualify": 100
     },
     {
         "name": "SugarCrash",
@@ -781,7 +787,8 @@
         ],
         "verifier": "Stormfly",
         "password": "180511",
-        "verification": "https://www.youtube.com/watch?v=pu4m4mpRlhI"
+        "verification": "https://www.youtube.com/watch?v=pu4m4mpRlhI",
+        "percentToQualify": 100
     },
     {
         "name": "Sakupen Hell",
@@ -793,7 +800,8 @@
             "Noobas"
         ],
         "password": "895562",
-        "verification": "https://www.youtube.com/watch?v=svyOjwLCErg"
+        "verification": "https://www.youtube.com/watch?v=svyOjwLCErg",
+        "percentToQualify": 100
     },
     {
         "name": "wrong out there",
@@ -837,7 +845,8 @@
             "BloodStorm"
         ],
         "verification": "https://www.youtube.com/watch?v=AuAdGf4yeYY",
-        "showcase": "https://www.youtube.com/watch?v=Ws-F7JBibgY"
+        "showcase": "https://www.youtube.com/watch?v=Ws-F7JBibgY",
+        "percentToQualify": 100
     },
     {
         "name": "Astrophobia",
@@ -849,7 +858,8 @@
             "Jakalope",
             "royen"
         ],
-        "verifier": "Jakalope"
+        "verifier": "Jakalope",
+        "percentToQualify": 100
     },
     {
         "name": "moment",
@@ -905,7 +915,8 @@
             "Giron",
             "Ggb0y"
         ],
-        "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik"
+        "verification": "https://www.youtube.com/watch?v=twTw4fjT0ik",
+        "percentToQualify": 100
     },
     {
         "name": "Eon",
@@ -916,7 +927,8 @@
             "Renn241"
         ],
         "verifier": "BlankB",
-        "verification": "https://www.youtube.com/watch?v=eYSTJC_q-8A"
+        "verification": "https://www.youtube.com/watch?v=eYSTJC_q-8A",
+        "percentToQualify": 100
     },
     {
         "name": "Down Bass",
@@ -928,7 +940,8 @@
             "Valyrie",
             "WoodedGold"
         ],
-        "password": "071100"
+        "password": "071100",
+        "percentToQualify": 100
     },
     {
         "name": "Barbaros Finale",
@@ -950,7 +963,8 @@
         ],
         "password": "0000",
         "verifier": "KrmaL",
-        "verification": "https://www.youtube.com/watch?v=wdEuFpV9CXw"
+        "verification": "https://www.youtube.com/watch?v=wdEuFpV9CXw",
+        "percentToQualify": 100
     },
     {
         "name": "EKO",
@@ -975,7 +989,8 @@
             "ivyteal"
         ],
         "verifier": "ivyteal",
-        "showcase": "https://www.youtube.com/watch?v=a5Tnh2ft0y0"
+        "showcase": "https://www.youtube.com/watch?v=a5Tnh2ft0y0",
+        "percentToQualify": 100
     },
     {
         "name": "Sigma Interface",
@@ -1017,7 +1032,8 @@
             "MothEye"
         ],
         "verifier": "Baeru",
-        "verification": "https://www.youtube.com/watch?v=exSJrLme6so"
+        "verification": "https://www.youtube.com/watch?v=exSJrLme6so",
+        "percentToQualify": 100
     },
     {
         "name": "sunburn",
@@ -1038,7 +1054,8 @@
             "Yerylik"
         ],
         "verifier": "MrSpaghetti",
-        "showcase": "https://www.youtube.com/watch?v=NTjvN8oIg8U"
+        "showcase": "https://www.youtube.com/watch?v=NTjvN8oIg8U",
+        "percentToQualify": 100
     },
     {
         "name": "RIVERS OF NAZARETH",
@@ -1050,7 +1067,8 @@
         ],
         "verifier": "AudieoVisual",
         "showcase": "https://www.youtube.com/watch?v=M3ULHIzY7l0",
-        "verification": "https://www.youtube.com/watch?v=xshV3v2H3_E"
+        "verification": "https://www.youtube.com/watch?v=xshV3v2H3_E",
+        "percentToQualify": 100
     },
     {
         "name": "Silverstone Hills",
@@ -1124,7 +1142,8 @@
         "creators": [
             "nikrodox"
         ],
-        "verification": "https://www.youtube.com/watch?v=wzutYMNXr-Y"
+        "verification": "https://www.youtube.com/watch?v=wzutYMNXr-Y",
+        "percentToQualify": 100
     },
     {
         "name": "HyperSonic",
@@ -1146,7 +1165,8 @@
             "Etzer",
             "Terron"
         ],
-        "verification": "https://www.youtube.com/watch?v=RmrPEJ7Z6lY"
+        "verification": "https://www.youtube.com/watch?v=RmrPEJ7Z6lY",
+        "percentToQualify": 100
     },
     {
         "name": "Melon River",
@@ -1168,7 +1188,8 @@
         ],
         "verifier": "Hypno",
         "verification": "https://www.youtube.com/watch?v=jwbAbnEgq6Q",
-        "showcase": "https://www.youtube.com/watch?v=s2Y9iLIHMvs"
+        "showcase": "https://www.youtube.com/watch?v=s2Y9iLIHMvs",
+        "percentToQualify": 100
     },
     {
         "name": "Robi",
@@ -1219,7 +1240,8 @@
             "SleyGD"
         ],
         "verifier": "spark",
-        "showcase": "https://www.youtube.com/watch?v=svkRLvFTyUA"
+        "showcase": "https://www.youtube.com/watch?v=svkRLvFTyUA",
+        "percentToQualify": 100
     },
     {
         "name": "Forbidden Isle",
@@ -1229,7 +1251,8 @@
             "Sillow"
         ],
         "id": 63775846,
-        "verifier": "WaxySs"
+        "verifier": "WaxySs",
+        "percentToQualify": 100
     },
     {
         "name": "Snowdrift",
@@ -1240,7 +1263,8 @@
             "Bratki"
         ],
         "verifier": "luminovsky",
-        "showcase": "https://www.youtube.com/watch?v=pwEh5k0GQR0"
+        "showcase": "https://www.youtube.com/watch?v=pwEh5k0GQR0",
+        "percentToQualify": 100
     },
     {
         "name": "Cataclysm",
@@ -1250,7 +1274,8 @@
         "verifier": "Riot",
         "creators": [
             "Ggb0y"
-        ]
+        ],
+        "percentToQualify": 100
     },
     {
         "name": "Komodo",
@@ -1299,7 +1324,8 @@
             "dutchiee"
         ],
         "verifier": "ThisIsGDNickShyne",
-        "verification": "https://www.youtube.com/watch?v=w842SzEdLK8"
+        "verification": "https://www.youtube.com/watch?v=w842SzEdLK8",
+        "percentToQualify": 100
     },
     {
         "name": "Niwa",
@@ -1318,7 +1344,8 @@
             "Genoxide"
         ],
         "verifier": "nicor77",
-        "verification": "https://www.youtube.com/watch?v=-Q6xekwI5Lw"
+        "verification": "https://www.youtube.com/watch?v=-Q6xekwI5Lw",
+        "percentToQualify": 100
     },
     {
         "name": "BRUTAL",
@@ -1329,7 +1356,8 @@
             "airless",
             "TShack"
         ],
-        "verifier": "airless"
+        "verifier": "airless",
+        "percentToQualify": 100
     },
     {
         "name": "troll level",
@@ -1351,7 +1379,8 @@
         "creators": [
             "thazm"
         ],
-        "verifier": "thazm"
+        "verifier": "thazm",
+        "percentToQualify": 100
     },
     {
         "name": "Evil",
@@ -1375,7 +1404,8 @@
             "Tfor1",
             "gruzy"
         ],
-        "verifier": "vortrox"
+        "verifier": "vortrox",
+        "percentToQualify": 100
     },
     {
         "name": "vermilion exile",
@@ -1389,7 +1419,8 @@
         "creators": [
             "VelYT"
         ],
-        "verifier": "Sam"
+        "verifier": "Sam",
+        "percentToQualify": 100
     },
     {
         "name": "Acu",
@@ -1401,7 +1432,8 @@
         ],
         "verifier": "neigefeu",
         "password": "Free Copy",
-        "verification": "https://www.youtube.com/watch?v=z6l74Mkoxm8"
+        "verification": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+        "percentToQualify": 100
     },
     {
         "name": "Through The Decay",
@@ -1412,7 +1444,8 @@
             "sparktwo"
         ],
         "verifier": "spark",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "percentToQualify": 100
     },
     {
         "name": "Frame of Mind",
@@ -1454,6 +1487,7 @@
             "itami",
             "NaimNaro"
         ],
-        "verification": "https://www.youtube.com/watch?v=BiX15JU1lsM"
+        "verification": "https://www.youtube.com/watch?v=BiX15JU1lsM",
+        "percentToQualify": 100
     }
 ]
