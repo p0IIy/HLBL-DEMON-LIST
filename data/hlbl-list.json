@@ -972,14 +972,17 @@
     {
         "name": "gravity",
         "records": [],
-        "author": "Kaza",
+        "author": "KazaGD",
         "id": 77008332,
         "creators": [
-            "Kaza"
+            "KazaGD",
+            "slayerkirb"
         ],
-        "verifier": "icedcave",
+        "verifier": "IcEDCave",
         "verification": "https://www.youtube.com/watch?v=Ba4PkcqiZa4",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=7jJJs9O6NDY"
     },
     {
         "name": "VACANT",
@@ -1147,7 +1150,8 @@
         "verifier": "Baeru",
         "verification": "https://www.youtube.com/watch?v=exSJrLme6so",
         "percentToQualify": 100,
-        "showcase": "https://www.youtube.com/watch?v=0JarWgDIFhg"
+        "showcase": "https://www.youtube.com/watch?v=0JarWgDIFhg",
+        "password": "Free Copy"
     },
     {
         "name": "sunburn",
@@ -1160,7 +1164,8 @@
         "verifier": "cxn",
         "percentToQualify": 100,
         "showcase": "https://www.youtube.com/watch?v=TJW0igkGVSw",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "verification": "https://www.youtube.com/watch?v=YQc5YhhFUoM"
     },
     {
         "name": "Convulsing Light",
@@ -1578,7 +1583,8 @@
             "liDeaychawooil"
         ],
         "verifier": "SrGuillester",
-        "password": "343269"
+        "password": "343269",
+        "percentToQualify": 100
     },
     {
         "name": "Fallen Horizon",
