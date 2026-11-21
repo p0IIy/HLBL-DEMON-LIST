@@ -307,7 +307,7 @@
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=tBpEPXGhQug",
         "percentToQualify": 100,
-        "showcase": "https://www.youtube.com/watch?v=4nwkpdUBvE4"
+        "showcase": "https://www.youtube.com/watch?v=ozGsB1IBLEE"
     },
     {
         "name": "ConClusion",
@@ -528,7 +528,7 @@
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=KgGKx0pk_wo",
         "percentToQualify": 100,
-        "showcase": "https://www.youtube.com/watch?v=WLs1BTpYgQs"
+        "showcase": "https://www.youtube.com/watch?v=vKXBWa2o3Dw"
     },
     {
         "name": "xo",
@@ -1644,6 +1644,7 @@
         ],
         "verification": "https://www.youtube.com/watch?v=BiX15JU1lsM",
         "percentToQualify": 100,
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=YY7Ifq8W-tc"
     }
 ]
