@@ -576,16 +576,17 @@
         "author": "Cersia",
         "creators": [
             "Cersia",
-            "henry500",
-            "fruitsalad",
-            "Inside",
+            "GDFruitsalad",
+            "henryDS",
+            "Insidee",
             "Awedsy",
             "TheLasaga"
         ],
         "verifier": "Slithium",
         "password": "Free Copy",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=bfo2atUb5aY"
+        "verification": "https://www.youtube.com/watch?v=bfo2atUb5aY",
+        "showcase": "https://www.youtube.com/watch?v=CaCMMzcsMtA"
     },
     {
         "name": "Quantum Processing",
@@ -1486,7 +1487,8 @@
         ],
         "verifier": "Draconis",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=b-91TScDuy8"
     },
     {
         "name": "Mizureta",
