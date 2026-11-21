@@ -758,11 +758,12 @@
     {
         "name": "gravity",
         "records": [],
-        "author": "KazaGD",
+        "author": "Kaza",
         "id": 77008332,
         "creators": [
-            "KazaGD"
-        ]
+            "Kaza"
+        ],
+        "verifier": "icedcave"
     },
     {
         "name": "VACANT",
@@ -837,7 +838,13 @@
     },
     {
         "name": "ETERNAL",
-        "records": []
+        "records": [],
+        "id": 86996130,
+        "author": "ivyteal",
+        "creators": [
+            "ivyteal"
+        ],
+        "verifier": "ivyteal"
     },
     {
         "name": "Sigma Interface",
@@ -1081,7 +1088,17 @@
     {
         "name": "Proteus",
         "records": [],
-        "author": "SpergQuos"
+        "author": "SpergQuos",
+        "id": 88943354,
+        "creators": [
+            "SleyGD",
+            "Fruitsnack",
+            "Sert",
+            "Renn241",
+            "fJud",
+            "Unbipentium"
+        ],
+        "verifier": "SleyGD"
     },
     {
         "name": "Azurite",
