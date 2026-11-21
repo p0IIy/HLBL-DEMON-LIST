@@ -837,12 +837,15 @@
     {
         "name": "moment",
         "records": [],
-        "author": "Arekushi14",
+        "author": "Lexycat",
         "id": 68848817,
         "creators": [
-            "Arekushi14"
+            "icedcave",
+            "Lexycat",
+            "Stormfly"
         ],
-        "verifier": "Arekushi14"
+        "verifier": "Johnfree",
+        "showcase": "https://www.youtube.com/watch?v=rCwx57pL2V0"
     },
     {
         "name": "gravity",
@@ -956,6 +959,7 @@
         "id": 62551239,
         "verifier": "Technical",
         "creators": [
+            "TeslaX",
             "Platnuu"
         ]
     },
