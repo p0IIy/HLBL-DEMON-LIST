@@ -177,7 +177,8 @@
         ],
         "password": "Free Copy",
         "percentToQualify": 100,
-        "verification": "https://www.youtube.com/watch?v=C3-l_fFikpQ"
+        "verification": "https://www.youtube.com/watch?v=C3-l_fFikpQ",
+        "showcase": "https://www.youtube.com/watch?v=MblV55rNR5A&t=527s"
     },
     {
         "name": "The Golden",
@@ -466,7 +467,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=wXxPNaqTZKU",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=MblV55rNR5A&t=392s"
     },
     {
         "name": "Sonic Wave",
@@ -479,7 +481,8 @@
         ],
         "password": "112516",
         "verification": "https://www.youtube.com/watch?v=GpXTwPgweAk",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=vLGoks9NpTc"
     },
     {
         "name": "Yatagarasu",
@@ -543,7 +546,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=Yx2IHj6YpRw",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=MblV55rNR5A&t=130s"
     },
     {
         "name": "Thunderzone",
@@ -749,7 +753,8 @@
         ],
         "verification": "https://www.youtube.com/watch?v=ZcQ5NrKmpT0",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=MblV55rNR5A&t=0s"
     },
     {
         "name": "Curie",
