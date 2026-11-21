@@ -806,7 +806,8 @@
         ],
         "verifier": "ked4ri (update verified by capu)",
         "percentToQualify": 100,
-        "showcase": "https://www.youtube.com/watch?v=u0XpvmXBMDg"
+        "showcase": "https://www.youtube.com/watch?v=u0XpvmXBMDg",
+        "verification": "https://www.youtube.com/watch?v=u0XpvmXBMDg"
     },
     {
         "name": "hot rod",
@@ -1690,7 +1691,8 @@
         "verifier": "spark",
         "password": "Free Copy",
         "percentToQualify": 100,
-        "showcase": "https://www.youtube.com/watch?v=djPTTc2vTd4"
+        "showcase": "https://www.youtube.com/watch?v=djPTTc2vTd4",
+        "verification": "https://www.youtube.com/watch?v=djPTTc2vTd4"
     },
     {
         "name": "Frame of Mind",
