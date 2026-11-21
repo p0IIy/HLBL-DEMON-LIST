@@ -1697,6 +1697,7 @@
     {
         "name": "Frame of Mind",
         "records": [],
+        "verifier": ,
         "id": 90782865,
         "author": "SwtCyn",
         "creators": [
@@ -1704,10 +1705,12 @@
             "BrainETR"
         ],
         "showcase": "https://www.youtube.com/watch?v=WVUo-teWyiQ",
+        "verification": "https://www.youtube.com/watch?v=djPTTc2vTd4",
         "percentToQualify": 100
     },
     {
         "name": "rauchkammer",
+        "verifier": ,
         "records": [],
         "id": 146399247,
         "author": "Devilmine",
