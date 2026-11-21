@@ -63,7 +63,9 @@
             "DrCuber",
             "CDMusic",
             "Brittank88"
-        ]
+        ],
+        "password": "Free Copy",
+        "percentToQualify": 75
     },
     {
         "name": "KOCMOC",
@@ -84,7 +86,9 @@
             "Deadlox",
             "Cauer",
             "Hantein"
-        ]
+        ],
+        "password": "Free Copy",
+        "percentToQualify": 73
     },
     {
         "name": "Sakupen Circles",
@@ -102,7 +106,9 @@
             "Endevvor",
             "NineDice",
             "GhostVandalf"
-        ]
+        ],
+        "password": "Free Copy",
+        "percentToQualify": 69
     },
     {
         "name": "Edge of Destiny",
