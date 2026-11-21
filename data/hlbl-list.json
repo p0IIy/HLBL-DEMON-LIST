@@ -704,7 +704,8 @@
             "GawrGura"
         ],
         "verifier": "Zeronium",
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "verification": "https://www.youtube.com/watch?v=sSIMvQD7ip4"
     },
     {
         "name": "Auditory Breaker",
@@ -758,9 +759,10 @@
         "creators": [
             "DanZmeN"
         ],
-        "verifier": "Grey749",
+        "verifier": "Technical, npesta, Gizbro, Golden (solo verifier: Grey749)",
         "password": "No Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "verification": "https://www.youtube.com/watch?v=8CkIYWN89fM"
     },
     {
         "name": "EnvY",
