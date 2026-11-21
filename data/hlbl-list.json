@@ -1171,7 +1171,13 @@
     },
     {
         "name": "Evil",
-        "records": []
+        "records": [],
+        "id": 7614092,
+        "author": "Deychawoo",
+        "creators": [
+            "Deychawoo"
+        ],
+        "verifier": "SrGuillester"
     },
     {
         "name": "Fallen Horizon",
@@ -1221,11 +1227,23 @@
     },
     {
         "name": "Frame of Mind",
-        "records": []
+        "records": [],
+        "id": 90782865,
+        "author": "SwtCyn",
+        "creators": [
+            "SwtCyn",
+            "BrainETR"
+        ]
     },
     {
         "name": "rauchkammer",
-        "records": []
+        "records": [],
+        "id": 146399247,
+        "author": "Devilmine",
+        "creators": [
+            "Devilmine"
+        ],
+        "verifier": "Devilmine"
     },
     {
         "name": "Thanatophobia",
