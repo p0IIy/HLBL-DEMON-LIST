@@ -1227,16 +1227,17 @@
         "id": 48765988,
         "author": "AxolotlCamellia",
         "creators": [
-            "AxolotlCamellia",
-            "blazer2",
             "Ezel142",
+            "Supris",
             "Ylliee",
-            "Michciach",
-            "GDSupris",
-            "JnehZWK",
+            "blazer2",
+            "MichciachGD",
+            "AxolotlCamellia",
             "Vexowy",
+            "Texic",
+            "ZWK",
             "ViralDL",
-            "Texic"
+            "Jneh"
         ],
         "verifier": "BlazeRol",
         "showcase": "https://www.youtube.com/watch?v=vOtCHOdO55E",
@@ -1596,9 +1597,10 @@
         "creators": [
             "VelYT"
         ],
-        "verifier": "xfire",
+        "verifier": "xfire, Tundra77",
         "percentToQualify": 100,
-        "password": "Free Copy"
+        "password": "Free Copy",
+        "showcase": "https://www.youtube.com/watch?v=LuG9HxrYYNk"
     },
     {
         "name": "Acu",
@@ -1624,7 +1626,8 @@
         ],
         "verifier": "spark",
         "password": "Free Copy",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=djPTTc2vTd4"
     },
     {
         "name": "Frame of Mind",
