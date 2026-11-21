@@ -15,7 +15,7 @@
         ],
         "verifier": "Zoink",
         "verification": "https://www.youtube.com/watch?v=nU5AQPzd2YA",
-        "showcase": "https://www.youtube.com/watch?v=Rczsf2Tg1wU",
+        "showcase": "https://www.youtube.com/watch?v=jPVNp38afPo",
         "password": "Free Copy",
         "percentToQualify": 73,
         "records": []
@@ -458,7 +458,8 @@
         ],
         "password": "Free Copy",
         "verification": "https://www.youtube.com/watch?v=lAgPh86coPQ",
-        "percentToQualify": 100
+        "percentToQualify": 100,
+        "showcase": "https://www.youtube.com/watch?v=ovKmoe6XWhY"
     },
     {
         "name": "Sonic Wave Rebirth",
